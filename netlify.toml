@@ -1,0 +1,4 @@
+﻿# Netlify settings: this is a static site with no build step.
+# Netlify publishes the files in the repository root as they are.
+[build]
+  publish = "."

@@ -1,0 +1,6 @@
+﻿# Editor and operating-system files that should never be committed
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini
+*.log

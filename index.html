@@ -1,0 +1,129 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Spelling Stage</title>
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🐝</text></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,500;12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&family=Atkinson+Hyperlegible+Mono:wght@400;600&display=swap">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="wrap">
+  <header>
+    <div class="brand">
+      <svg viewBox="0 0 40 40" aria-hidden="true"><path d="M20 3l14.7 8.5v17L20 37 5.3 28.5v-17z" fill="var(--honey)"/><path d="M14 26l6-14 6 14M16.4 20.5h7.2" stroke="var(--honey-ink)" stroke-width="2.6" fill="none" stroke-linecap="round" stroke-linejoin="round"/></svg>
+      <h1>Spelling Stage</h1>
+    </div>
+    <nav aria-label="Sections">
+      <button data-tab="practice" aria-current="page">Practice</button>
+      <button data-tab="list">Word list</button>
+      <button data-tab="progress">Progress</button>
+    </nav>
+  </header>
+
+  <div id="ttsWarn" class="notice" hidden>This browser can't speak words out loud. Try Chrome, Edge, or Safari to hear the words.</div>
+
+  <!-- PRACTICE: setup -->
+  <section id="setup" class="panel">
+    <div>
+      <h2 style="font-size:28px">Ready for the next round?</h2>
+      <p class="muted" style="margin:4px 0 0">Listen to each word, ask for the definition or a sentence like at the real bee, then type the spelling. Missed words come back at the end of the round.</p>
+    </div>
+    <div class="field">
+      <div class="label">Word groups</div>
+      <div class="chips" id="groups"></div>
+      <div class="hint" id="poolInfo"></div>
+    </div>
+    <div class="row" style="gap:24px;align-items:flex-start">
+      <div class="field">
+        <div class="label">Round length</div>
+        <div class="seg" id="lenSeg">
+          <button data-v="10">10</button><button data-v="20">20</button><button data-v="30">30</button><button data-v="0">All</button>
+        </div>
+      </div>
+      <div class="field">
+        <div class="label">Order</div>
+        <div class="seg" id="orderSeg">
+          <button data-v="smart">Smart review</button><button data-v="list">List order</button><button data-v="shuffle">Shuffled</button>
+        </div>
+      </div>
+    </div>
+    <div class="row">
+      <button class="btn primary" id="startBtn" style="font-size:17px;padding:12px 22px">Start round</button>
+      <button class="btn" id="missedBtn">Practice trouble words</button>
+    </div>
+    <details>
+      <summary class="label" style="cursor:pointer">Voice settings</summary>
+      <div class="settings" style="margin-top:12px">
+        <div class="field"><label class="label" for="voiceSel">Pronouncer voice</label><select id="voiceSel"></select></div>
+        <div class="field"><label class="label" for="rate">Speed <span id="rateVal"></span></label><input type="range" id="rate" min="0.5" max="1.2" step="0.05"></div>
+      </div>
+      <div class="row" style="margin-top:10px"><button class="btn" id="testVoice">Test voice</button></div>
+    </details>
+  </section>
+
+  <!-- PRACTICE: drill -->
+  <section id="drill" hidden style="display:flex;flex-direction:column;gap:18px">
+    <div class="topline">
+      <div class="count" id="countTxt"></div>
+      <div class="bar"><i id="barFill"></i></div>
+      <button class="btn ghost" id="endBtn">End round</button>
+    </div>
+    <div style="padding-top:22px">
+      <div class="placard">
+        <div class="no">Word <b id="wordNo"></b></div>
+        <button class="speak" id="speakBtn" aria-label="Hear the word">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 5L6 9H3v6h3l5 4z" fill="currentColor"/><path d="M15.5 8.5a5 5 0 010 7M18.5 5.5a9 9 0 010 13"/></svg>
+        </button>
+        <div class="muted" style="font-size:14px">Tap to hear the word</div>
+        <span class="retry" id="retryTag" hidden>Second chance</span>
+      </div>
+    </div>
+    <div class="panel" style="gap:12px">
+      <div class="label">Ask the pronouncer</div>
+      <div class="asks" id="asks">
+        <button class="ask" data-ask="repeat"><b>Repeat</b><span>"Could you say it again?"</span></button>
+        <button class="ask" data-ask="slow"><b>Say it slowly</b><span>"More slowly, please?"</span></button>
+        <button class="ask" data-ask="def"><b>Definition</b><span>"What does it mean?"</span></button>
+        <button class="ask" data-ask="pos"><b>Part of speech</b><span>"Is it a noun, a verb…?"</span></button>
+        <button class="ask" data-ask="origin"><b>Language of origin</b><span>"Where is it from?"</span></button>
+        <button class="ask" data-ask="sent"><b>Sentence</b><span>"Use it in a sentence?"</span></button>
+      </div>
+      <div class="facts" id="facts"></div>
+    </div>
+    <form class="answer" id="answerForm" autocomplete="off">
+      <label for="answer" class="label" style="flex-basis:100%">Type your spelling</label>
+      <input id="answer" type="text" autocomplete="off" autocorrect="off" autocapitalize="off" spellcheck="false" enterkeyhint="done" placeholder="spell it here">
+      <button class="btn primary" type="submit" style="font-size:17px">Check</button>
+      <button class="btn ghost" type="button" id="dunnoBtn">I don't know</button>
+    </form>
+    <div id="feedback" class="feedback" hidden></div>
+  </section>
+
+  <!-- PRACTICE: summary -->
+  <section id="summary" class="panel" hidden></section>
+
+  <!-- WORD LIST -->
+  <section id="list" class="panel" hidden>
+    <div class="row" style="justify-content:space-between">
+      <h2 style="font-size:24px">Word list</h2>
+      <span class="muted" id="listCount"></span>
+    </div>
+    <div class="settings">
+      <div class="field"><label class="label" for="q">Search</label><input type="search" id="q" placeholder="word, definition, or origin"></div>
+      <div class="field"><label class="label" for="gSel">Group</label><select id="gSel"></select></div>
+    </div>
+    <div id="listBody"></div>
+  </section>
+
+  <!-- PROGRESS -->
+  <section id="progress" class="panel" hidden></section>
+</div>
+
+<script src="app.js"></script>
+</body>
+</html>

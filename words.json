@@ -1,0 +1,4065 @@
+[
+ {
+  "id": 1,
+  "word": "ran",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "went by moving the legs quickly : went faster than a walk.",
+  "origin": "Old English",
+  "sentence": "She ran all the way to the bus stop."
+ },
+ {
+  "id": 2,
+  "word": "wind",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "air that is moving.",
+  "origin": "Old English",
+  "sentence": "The wind blew my hat right off my head."
+ },
+ {
+  "id": 3,
+  "word": "leg",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one of the appendages of an animal that are used chiefly in supporting the body and in moving from point to point especially by walking.",
+  "origin": "Old Norse",
+  "sentence": "The puppy hurt its front leg."
+ },
+ {
+  "id": 4,
+  "word": "dirt",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "earth, soil, or sand.",
+  "origin": "Old Norse",
+  "sentence": "My shoes were covered in dirt."
+ },
+ {
+  "id": 5,
+  "word": "rod",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a slender bar resembling a wand of wood.",
+  "origin": "Old English",
+  "sentence": "Grandpa brought his fishing rod to the lake."
+ },
+ {
+  "id": 6,
+  "word": "good",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "correct, proper, or right.",
+  "origin": "Old English",
+  "sentence": "That was a good answer."
+ },
+ {
+  "id": 7,
+  "word": "most",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "the greatest number of.",
+  "origin": "Old English",
+  "sentence": "Most of the class came to the party."
+ },
+ {
+  "id": 8,
+  "word": "hurt",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "injured in body or spirit.",
+  "origin": "Old French",
+  "sentence": "The hurt bird could not fly."
+ },
+ {
+  "id": 9,
+  "word": "shy",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "easily frightened or scared.",
+  "origin": "Old English",
+  "sentence": "The shy kitten hid under the bed."
+ },
+ {
+  "id": 10,
+  "word": "bunny",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a young rabbit.",
+  "origin": "English dialect",
+  "sentence": "The bunny hopped across the lawn."
+ },
+ {
+  "id": 11,
+  "word": "down",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "from a higher place to a lower place.",
+  "origin": "Old English",
+  "sentence": "The leaves floated down to the ground."
+ },
+ {
+  "id": 12,
+  "word": "steps",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "things to put the foot on in moving upward or downward.",
+  "origin": "Old English",
+  "sentence": "We sat on the front steps."
+ },
+ {
+  "id": 13,
+  "word": "drink",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any natural or prepared liquid for swallowing : a beverage.",
+  "origin": "Old English",
+  "sentence": "I would like a cold drink, please."
+ },
+ {
+  "id": 14,
+  "word": "silly",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "lacking importance or serious meaning.",
+  "origin": "Old English",
+  "sentence": "We told silly jokes all afternoon."
+ },
+ {
+  "id": 15,
+  "word": "sick",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not well or in good health.",
+  "origin": "Old English",
+  "sentence": "He stayed home because he was sick."
+ },
+ {
+  "id": 16,
+  "word": "path",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a track or way made for a specific use.",
+  "origin": "Old English",
+  "sentence": "The path led down to the river."
+ },
+ {
+  "id": 17,
+  "word": "mist",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a fine spray : fog.",
+  "origin": "Old English",
+  "sentence": "Mist covered the field in the early morning."
+ },
+ {
+  "id": 18,
+  "word": "stars",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "objects in the sky resembling luminous points and usually only bright enough to be seen at night.",
+  "origin": "Old English",
+  "sentence": "We counted the stars from the porch."
+ },
+ {
+  "id": 19,
+  "word": "truck",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a vehicle built for moving things in its own frame.",
+  "origin": "Latin",
+  "sentence": "The truck delivered our new couch."
+ },
+ {
+  "id": 20,
+  "word": "fire",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "combustion as manifested in light, flame, and heat.",
+  "origin": "Old English",
+  "sentence": "We roasted marshmallows over the fire."
+ },
+ {
+  "id": 21,
+  "word": "still",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not moving: stationary.",
+  "origin": "Old English",
+  "sentence": "Please sit still for the photo."
+ },
+ {
+  "id": 22,
+  "word": "hello",
+  "alternates": [],
+  "partOfSpeech": "interjection",
+  "definition": "— used as a familiar greeting or in answering the telephone or to express surprise.",
+  "origin": "English",
+  "sentence": "She said hello to her new neighbor."
+ },
+ {
+  "id": 23,
+  "word": "bush",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a low densely branched woody plant.",
+  "origin": "Old English and Old Norse",
+  "sentence": "A rabbit hid behind the bush."
+ },
+ {
+  "id": 24,
+  "word": "late",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "coming or doing after the due, usual, or proper time : not early.",
+  "origin": "Old English",
+  "sentence": "We were late for the movie."
+ },
+ {
+  "id": 25,
+  "word": "pump",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a device that raises or transfers fluids or gases especially by suction or pressure or both.",
+  "origin": "Middle Low German",
+  "sentence": "Use the pump to fill the bike tire."
+ },
+ {
+  "id": 26,
+  "word": "shell",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a hard protective covering of an animal.",
+  "origin": "Old English",
+  "sentence": "The turtle pulled its head into its shell."
+ },
+ {
+  "id": 27,
+  "word": "yarn",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a long, thin thread used for knitting or weaving.",
+  "origin": "Old English",
+  "sentence": "Grandma bought red yarn for a scarf."
+ },
+ {
+  "id": 28,
+  "word": "wings",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "the parts of an animal's body that it moves to fly.",
+  "origin": "Old Norse",
+  "sentence": "The butterfly slowly opened its wings."
+ },
+ {
+  "id": 29,
+  "word": "sharp",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "tapering to a fine point.",
+  "origin": "Old English",
+  "sentence": "Be careful, the pencil is sharp."
+ },
+ {
+  "id": 30,
+  "word": "easy",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "involving little difficulty or hardship to do.",
+  "origin": "Old French",
+  "sentence": "The first puzzle was easy."
+ },
+ {
+  "id": 31,
+  "word": "body",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the physical part of human beings.",
+  "origin": "Old English",
+  "sentence": "Exercise keeps your body strong."
+ },
+ {
+  "id": 32,
+  "word": "house",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a building containing living quarters for one or a few families.",
+  "origin": "Old English",
+  "sentence": "Their house has a red door."
+ },
+ {
+  "id": 33,
+  "word": "rich",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having large amounts of wealth.",
+  "origin": "Old English",
+  "sentence": "The rich king lived in a castle."
+ },
+ {
+  "id": 34,
+  "word": "shift",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a scheduled period of work or duty.",
+  "origin": "Old English",
+  "sentence": "Mom works the night shift at the hospital."
+ },
+ {
+  "id": 35,
+  "word": "heart",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a hollow muscular organ of vertebrate animals that by its rhythmic contraction acts as a force pump maintaining the circulation of the blood.",
+  "origin": "Old English",
+  "sentence": "Your heart beats faster when you run."
+ },
+ {
+  "id": 36,
+  "word": "tusk",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a large, long tooth that sticks out of an animal's mouth.",
+  "origin": "Old English",
+  "sentence": "The elephant lifted the log with its tusk."
+ },
+ {
+  "id": 37,
+  "word": "shoot",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to send forth a ball or puck in a game especially toward a particular goal.",
+  "origin": "Old English",
+  "sentence": "She will shoot the ball at the basket."
+ },
+ {
+  "id": 38,
+  "word": "seal",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a marine aquatic carnivorous mammal that lives near cold seacoasts or on ice floats, has webbed flippers adapted for swimming, and has been hunted for its fur, hide, and oil.",
+  "origin": "Old English",
+  "sentence": "A seal was sunning itself on the rock."
+ },
+ {
+  "id": 39,
+  "word": "even",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "being any number that can be exactly divided by two.",
+  "origin": "Old English",
+  "sentence": "Four is an even number."
+ },
+ {
+  "id": 40,
+  "word": "dive",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to plunge into water headfirst.",
+  "origin": "Old English",
+  "sentence": "He likes to dive into the deep end."
+ },
+ {
+  "id": 41,
+  "word": "claws",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "sharp nails on the toes of animals, especially when such nails are slender and curved (as with those of a bird or cat).",
+  "origin": "Old English",
+  "sentence": "The cat sharpened its claws on the post."
+ },
+ {
+  "id": 42,
+  "word": "crack",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to break (something brittle or hollow) with a sharp or explosive sound.",
+  "origin": "Old English",
+  "sentence": "Crack the eggs into the bowl."
+ },
+ {
+  "id": 43,
+  "word": "come",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to move toward something : to approach.",
+  "origin": "Old English",
+  "sentence": "Please come to the front of the room."
+ },
+ {
+  "id": 44,
+  "word": "fine",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "all right : satisfactory, adequate.",
+  "origin": "Old French",
+  "sentence": "After a short rest, I felt fine."
+ },
+ {
+  "id": 45,
+  "word": "winter",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the season between autumn and spring.",
+  "origin": "Old English",
+  "sentence": "It snowed a lot last winter."
+ },
+ {
+  "id": 46,
+  "word": "apple",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a round fruit that grows on trees and has crisp white flesh and red, yellow, or green skin.",
+  "origin": "Old English",
+  "sentence": "I packed an apple in my lunch."
+ },
+ {
+  "id": 47,
+  "word": "sound",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a noise or tone.",
+  "origin": "Latin, through Old French",
+  "sentence": "We heard a strange sound in the attic."
+ },
+ {
+  "id": 48,
+  "word": "mossy",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "overgrown with or covered with a plant of a class of spore-producing plants or something like it.",
+  "origin": "Old English",
+  "sentence": "The mossy rock was slippery."
+ },
+ {
+  "id": 49,
+  "word": "yellow",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a color that is like that of ripe lemons or sunflowers.",
+  "origin": "Old English",
+  "sentence": "Yellow is my favorite color."
+ },
+ {
+  "id": 50,
+  "word": "shine",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to send out rays of light.",
+  "origin": "Old English",
+  "sentence": "The stars shine brightly tonight."
+ },
+ {
+  "id": 51,
+  "word": "chips",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "thin slices of potatoes that are deep-fried in fat.",
+  "origin": "Old English",
+  "sentence": "We had chips with our sandwiches."
+ },
+ {
+  "id": 52,
+  "word": "beans",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "pods containing seeds that are eaten as vegetables.",
+  "origin": "Old English",
+  "sentence": "Dad grew green beans in the garden."
+ },
+ {
+  "id": 53,
+  "word": "mouth",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the opening through which food passes into the body of an animal.",
+  "origin": "Old English",
+  "sentence": "The baby bird opened its mouth wide."
+ },
+ {
+  "id": 54,
+  "word": "spray",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to throw a liquid upon in the form of small drops.",
+  "origin": "Middle Dutch",
+  "sentence": "Spray the plants with water every day."
+ },
+ {
+  "id": 55,
+  "word": "year",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a cycle in a calendar having 365 days divided into 12 months beginning with January and ending with December.",
+  "origin": "Old English",
+  "sentence": "My birthday comes once a year."
+ },
+ {
+  "id": 56,
+  "word": "truth",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the real state of affairs : something that is the case : a fact.",
+  "origin": "Old English",
+  "sentence": "Always tell the truth."
+ },
+ {
+  "id": 57,
+  "word": "paper",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a thin sheet of fibers used in many ways, including as a surface for writing.",
+  "origin": "Greek, through Latin",
+  "sentence": "Write your name at the top of the paper."
+ },
+ {
+  "id": 58,
+  "word": "rabbit",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a long-eared, short-tailed, plant-eating mammal with long powerful hind legs and usually thick soft fur.",
+  "origin": "Middle English, probably from Walloon (French dialect)",
+  "sentence": "The rabbit nibbled on a carrot."
+ },
+ {
+  "id": 59,
+  "word": "feed",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to give food to.",
+  "origin": "Old English",
+  "sentence": "It is my turn to feed the dog."
+ },
+ {
+  "id": 60,
+  "word": "tallest",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of greater than average height among others of a kind or class.",
+  "origin": "Old English",
+  "sentence": "She is the tallest girl in our class."
+ },
+ {
+  "id": 61,
+  "word": "inside",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an interior or internal portion : the part within.",
+  "origin": "Old English",
+  "sentence": "The inside of the box was lined with felt."
+ },
+ {
+  "id": 62,
+  "word": "frozen",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "subject to severe cold : chilly.",
+  "origin": "Old English",
+  "sentence": "The pond was frozen solid."
+ },
+ {
+  "id": 63,
+  "word": "speak",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to utter words : to talk.",
+  "origin": "Old English",
+  "sentence": "Please speak clearly into the microphone."
+ },
+ {
+  "id": 64,
+  "word": "cliffs",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "very steep, perpendicular or overhanging faces of rock, earth, or glacial ice of considerable height : precipices.",
+  "origin": "Old English",
+  "sentence": "Birds nest on the cliffs above the sea."
+ },
+ {
+  "id": 65,
+  "word": "whale",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an aquatic mammal that resembles a large fish.",
+  "origin": "Old English",
+  "sentence": "A whale spouted water into the air."
+ },
+ {
+  "id": 66,
+  "word": "market",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a formal organized coming together of buyers and sellers of goods.",
+  "origin": "Latin",
+  "sentence": "We bought corn at the farmers market."
+ },
+ {
+  "id": 67,
+  "word": "flock",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a company of domestic mammals (as sheep or goats) herded together.",
+  "origin": "Old English",
+  "sentence": "The shepherd counted his flock."
+ },
+ {
+  "id": 68,
+  "word": "crunch",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to chew with a crushing or grinding noise.",
+  "origin": "English, imitative of the sound",
+  "sentence": "I could hear him crunch his cereal."
+ },
+ {
+  "id": 69,
+  "word": "lizard",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any relatively long-bodied reptile with legs and tapering tail.",
+  "origin": "Latin, through Old French",
+  "sentence": "A lizard sunned itself on the wall."
+ },
+ {
+  "id": 70,
+  "word": "beware",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to be on one's guard : to be cautious : to take care.",
+  "origin": "Old English",
+  "sentence": "Beware of the dog!"
+ },
+ {
+  "id": 71,
+  "word": "sparkle",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a tiny glittering particle or surface or a sudden burst of reflected light.",
+  "origin": "Middle English",
+  "sentence": "There was a sparkle in her eye."
+ },
+ {
+  "id": 72,
+  "word": "sweater",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a knitted or sometimes crocheted jacket or pullover made in various styles and usually having ribbing around the neck, cuffs, and lower edge.",
+  "origin": "Old English",
+  "sentence": "Wear a sweater because it is cold outside."
+ },
+ {
+  "id": 73,
+  "word": "nurse",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a person skilled in caring for and waiting on the infirm, the injured, or the sick.",
+  "origin": "Latin, through Old French",
+  "sentence": "The nurse took my temperature."
+ },
+ {
+  "id": 74,
+  "word": "wrong",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not true, correct, or right.",
+  "origin": "Old Norse",
+  "sentence": "I picked the wrong answer."
+ },
+ {
+  "id": 75,
+  "word": "hopped",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "moved by a quick springy leap or in a series of leaps : jumped.",
+  "origin": "Old English",
+  "sentence": "The frog hopped onto the lily pad."
+ },
+ {
+  "id": 76,
+  "word": "money",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "something that is used to pay for goods or services.",
+  "origin": "Latin, through Old French",
+  "sentence": "She saved her money for a new bike."
+ },
+ {
+  "id": 77,
+  "word": "cabin",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a small single-story low-roofed house of simple construction.",
+  "origin": "Latin, through French",
+  "sentence": "We stayed in a cabin in the woods."
+ },
+ {
+  "id": 78,
+  "word": "darkness",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the absence in part or in whole of light.",
+  "origin": "Old English",
+  "sentence": "The owl hunted in the darkness."
+ },
+ {
+  "id": 79,
+  "word": "always",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "on every occasion : at all times.",
+  "origin": "Old English",
+  "sentence": "He always brushes his teeth before bed."
+ },
+ {
+  "id": 80,
+  "word": "sprout",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to grow, spring up, or come forth.",
+  "origin": "Old English",
+  "sentence": "The seeds began to sprout after a week."
+ },
+ {
+  "id": 81,
+  "word": "carve",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to cut (something) with deliberate care or practiced precision.",
+  "origin": "Old English",
+  "sentence": "We will carve a pumpkin together."
+ },
+ {
+  "id": 82,
+  "word": "shadows",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "the dark figures cast upon a surface by a body intercepting the rays from a source of light.",
+  "origin": "Old English",
+  "sentence": "Our shadows grew long in the evening."
+ },
+ {
+  "id": 83,
+  "word": "morning",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the early part of the day until noon.",
+  "origin": "Old English",
+  "sentence": "I eat breakfast every morning."
+ },
+ {
+  "id": 84,
+  "word": "alive",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having life : not dead or inanimate.",
+  "origin": "Old English",
+  "sentence": "The fish was still alive in the bucket."
+ },
+ {
+  "id": 85,
+  "word": "earth",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "soil, ground.",
+  "origin": "Old English",
+  "sentence": "The worm wiggled back into the earth."
+ },
+ {
+  "id": 86,
+  "word": "friend",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one that seeks the society or welfare of another whom he or she holds in affection, respect, or esteem or whose companionship and personality are pleasurable.",
+  "origin": "Old English",
+  "sentence": "My best friend lives next door."
+ },
+ {
+  "id": 87,
+  "word": "lovely",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "delightful for beauty, harmony, or grace : attractive because of natural charm.",
+  "origin": "Old English",
+  "sentence": "What a lovely garden!"
+ },
+ {
+  "id": 88,
+  "word": "return",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to go back or come back again (as to a place, person, or condition).",
+  "origin": "Old French",
+  "sentence": "Please return the book to the library."
+ },
+ {
+  "id": 89,
+  "word": "half",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one of two equal parts into which a thing is divisible.",
+  "origin": "Old English",
+  "sentence": "I ate half of the sandwich."
+ },
+ {
+  "id": 90,
+  "word": "swift",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "moving or able to move with great speed.",
+  "origin": "Old English",
+  "sentence": "The swift deer leaped over the fence."
+ },
+ {
+  "id": 91,
+  "word": "grandfather",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a father's or mother's father.",
+  "origin": "French and Old English",
+  "sentence": "My grandfather taught me to fish."
+ },
+ {
+  "id": 92,
+  "word": "footprints",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "impressions of the foot on a surface.",
+  "origin": "Old English",
+  "sentence": "We followed the footprints in the snow."
+ },
+ {
+  "id": 93,
+  "word": "fear",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to be afraid of.",
+  "origin": "Old English",
+  "sentence": "Many people fear the dark."
+ },
+ {
+  "id": 94,
+  "word": "thirsty",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "experiencing a desire for drink.",
+  "origin": "Old English",
+  "sentence": "After soccer practice, I was very thirsty."
+ },
+ {
+  "id": 95,
+  "word": "peer",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one that is of the same or equal standing (as in law, rank, quality, age, ability) with another : an equal.",
+  "origin": "Latin, through Old French",
+  "sentence": "She asked a peer to check her work."
+ },
+ {
+  "id": 96,
+  "word": "gentle",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "benignly gracious or kind in manner : not harsh or stern : mild.",
+  "origin": "Latin, through Old French",
+  "sentence": "Be gentle with the baby chick."
+ },
+ {
+  "id": 97,
+  "word": "riddle",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a puzzling question to be guessed at.",
+  "origin": "Old English",
+  "sentence": "Can you solve this riddle?"
+ },
+ {
+  "id": 98,
+  "word": "voice",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the ability to speak.",
+  "origin": "Latin, through Old French",
+  "sentence": "She lost her voice after the concert."
+ },
+ {
+  "id": 99,
+  "word": "peach",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a sweet juicy edible fruit which is used as a fresh or cooked fruit, in preserves or dried.",
+  "origin": "Latin, through Old French",
+  "sentence": "The peach was sweet and juicy."
+ },
+ {
+  "id": 100,
+  "word": "pancake",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a flat bread made of thin batter consisting basically of flour, liquid, and leavening and cooked on both sides on a griddle.",
+  "origin": "Old English",
+  "sentence": "Dad flipped the pancake high in the air."
+ },
+ {
+  "id": 101,
+  "word": "illness",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an unhealthy condition of the body or mind.",
+  "origin": "Old Norse and English",
+  "sentence": "She missed a week of school because of an illness."
+ },
+ {
+  "id": 102,
+  "word": "lead",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a soft metallic element that is bluish white when freshly cut but tarnishes readily in moist air to dull gray and is used often in solder, acid-resistant linings, and also shields against radioactivity.",
+  "origin": "Old English",
+  "sentence": "Old water pipes were sometimes made of lead.",
+  "pronounceAs": "led"
+ },
+ {
+  "id": 103,
+  "word": "groan",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a deep, sudden, unintentional sound that usually indicates pain, grief, or sometimes disapproval or annoyance.",
+  "origin": "Old English",
+  "sentence": "He let out a groan when he saw the homework."
+ },
+ {
+  "id": 104,
+  "word": "sloth",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a slow-moving brownish or grayish mammal with very long front legs and long curved claws that hangs from branches and eats leaves and fruit.",
+  "origin": "Old English",
+  "sentence": "The sloth hung upside down from the branch."
+ },
+ {
+  "id": 105,
+  "word": "knit",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to form a fabric by the interlacing of a yarn or yarns in a series of connected loops by means of hand or machine needles.",
+  "origin": "Old English",
+  "sentence": "Grandma will knit me a hat."
+ },
+ {
+  "id": 106,
+  "word": "cloak",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a loose piece of outer clothing (such as a cape or an overcoat).",
+  "origin": "Medieval Latin, through Old French",
+  "sentence": "The wizard wore a long purple cloak."
+ },
+ {
+  "id": 107,
+  "word": "parade",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a public procession : the movement of people or things in order.",
+  "origin": "Latin, through Spanish and French",
+  "sentence": "We watched the parade on Main Street."
+ },
+ {
+  "id": 108,
+  "word": "whistle",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a small wind instrument in which sound is produced by the forcible passage of breath through a slit in a short tube (as of wood or metal).",
+  "origin": "Old English",
+  "sentence": "The coach blew her whistle."
+ },
+ {
+  "id": 109,
+  "word": "total",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "constituting an entire number or amount.",
+  "origin": "Latin",
+  "sentence": "The total cost was ten dollars."
+ },
+ {
+  "id": 110,
+  "word": "indoors",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a building.",
+  "origin": "English",
+  "sentence": "We played indoors because of the rain."
+ },
+ {
+  "id": 111,
+  "word": "trouble",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a cause of disturbance, annoyance, or distress.",
+  "origin": "Latin, through Old French",
+  "sentence": "The broken car caused us a lot of trouble."
+ },
+ {
+  "id": 112,
+  "word": "relax",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to rest.",
+  "origin": "Latin",
+  "sentence": "After school I like to relax on the couch."
+ },
+ {
+  "id": 113,
+  "word": "finish",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to arrive at the end of : to complete.",
+  "origin": "Latin, through French",
+  "sentence": "Finish your homework before dinner."
+ },
+ {
+  "id": 114,
+  "word": "holiday",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a day on which one is free from usual everyday activity or work.",
+  "origin": "Old English",
+  "sentence": "Thanksgiving is my favorite holiday."
+ },
+ {
+  "id": 115,
+  "word": "safety",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "freedom from exposure to danger.",
+  "origin": "Latin, through French",
+  "sentence": "Wear a helmet for safety."
+ },
+ {
+  "id": 116,
+  "word": "stout",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "characterized by physical or moral bravery : courageous : valiant.",
+  "origin": "Old French, from a Germanic word",
+  "sentence": "The stout knight defended the castle."
+ },
+ {
+  "id": 117,
+  "word": "spiders",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "arachnids having a short, usually unsegmented abdomen, poison fangs, and two or more pairs of spinnerets at the posterior end of the abdomen for spinning threads of silk for various uses (as in making cocoons for their eggs or webs to catch prey).",
+  "origin": "Old English",
+  "sentence": "Spiders spin webs to catch insects."
+ },
+ {
+  "id": 118,
+  "word": "entire",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having nothing removed or left out : whole.",
+  "origin": "Latin, through French",
+  "sentence": "He ate the entire pizza!"
+ },
+ {
+  "id": 119,
+  "word": "library",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a room or section of a building given over to books, manuscripts, or other literary and sometimes artistic materials usually kept in some convenient order for use but not for sale.",
+  "origin": "Latin",
+  "sentence": "I borrowed three books from the library."
+ },
+ {
+  "id": 120,
+  "word": "guide",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to direct or supervise especially toward some desirable end, course, way, or development.",
+  "origin": "Old French",
+  "sentence": "The ranger will guide us up the trail."
+ },
+ {
+  "id": 121,
+  "word": "hospital",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an institution or place where sick or injured persons are given medical or surgical care.",
+  "origin": "Latin",
+  "sentence": "The doctor works at the hospital."
+ },
+ {
+  "id": 122,
+  "word": "mustard",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a strong yellow condiment made of crushed seeds made into a paste.",
+  "origin": "Old French",
+  "sentence": "Do you want mustard on your hot dog?"
+ },
+ {
+  "id": 123,
+  "word": "company",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an association of persons for carrying on a commercial or industrial enterprise or business.",
+  "origin": "Latin, through Old French",
+  "sentence": "Her mom started a toy company."
+ },
+ {
+  "id": 124,
+  "word": "ginger",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an extremely pungent and aromatic rootlike plant stem that is usually dried and ground to a fine brownish powder and used as a spice.",
+  "origin": "Sanskrit, through Greek and Latin",
+  "sentence": "Mom added ginger to the cookies."
+ },
+ {
+  "id": 125,
+  "word": "narrow",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not as wide as usual or as expected.",
+  "origin": "Old English",
+  "sentence": "The path was too narrow for two bikes."
+ },
+ {
+  "id": 126,
+  "word": "medium",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "intermediate in amount, quality, position, or degree : average.",
+  "origin": "Latin",
+  "sentence": "I would like a medium drink, please."
+ },
+ {
+  "id": 127,
+  "word": "pennies",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "cents of the U.S. or Canada.",
+  "origin": "Old English",
+  "sentence": "She saved her pennies in a jar."
+ },
+ {
+  "id": 128,
+  "word": "hiking",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "marching, tramping, walking.",
+  "origin": "English dialect",
+  "sentence": "We went hiking in the mountains."
+ },
+ {
+  "id": 129,
+  "word": "foolish",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "lacking in judgment, fit consideration, or intelligence.",
+  "origin": "Latin, through Old French",
+  "sentence": "It was foolish to leave the gate open."
+ },
+ {
+  "id": 130,
+  "word": "afraid",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "filled with fear or alarm.",
+  "origin": "Old French",
+  "sentence": "The puppy was afraid of the thunder."
+ },
+ {
+  "id": 131,
+  "word": "remember",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to bring to mind again : to think of again.",
+  "origin": "Latin, through Old French",
+  "sentence": "Remember to bring your library book."
+ },
+ {
+  "id": 132,
+  "word": "result",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to proceed, spring, or arise as a consequence.",
+  "origin": "Latin",
+  "sentence": "Too much rain can result in flooding."
+ },
+ {
+  "id": 133,
+  "word": "charming",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "fascinating and delighting : extremely pleasing : marked by compelling attraction or appeal.",
+  "origin": "Latin, through French",
+  "sentence": "The village had charming little shops."
+ },
+ {
+  "id": 134,
+  "word": "source",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a firsthand document or primary reference work.",
+  "origin": "Latin, through Old French",
+  "sentence": "Use a reliable source for your report."
+ },
+ {
+  "id": 135,
+  "word": "pearls",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "dense concretions formed in various mollusks by deposition of thin layers of nacre about a foreign particle, that are typically round, and that exhibit various colors but are usually white or light-colored.",
+  "origin": "Latin, through French",
+  "sentence": "She wore a necklace of pearls."
+ },
+ {
+  "id": 136,
+  "word": "tangy",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having or suggestive of a sharp distinctive flavor that lingers on the tongue.",
+  "origin": "Old Norse",
+  "sentence": "The lemonade had a tangy taste."
+ },
+ {
+  "id": 137,
+  "word": "beasts",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "wild mammals fierce by nature; especially : carnivorous wild mammals.",
+  "origin": "Latin, through Old French",
+  "sentence": "Wild beasts roamed the dark forest."
+ },
+ {
+  "id": 138,
+  "word": "shivering",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "trembling due to cold, fear, or physical pressure.",
+  "origin": "Middle English",
+  "sentence": "We were shivering at the bus stop."
+ },
+ {
+  "id": 139,
+  "word": "barge",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a roomy usually flat-bottomed boat used principally in harbors or inland waterways for the transport of goods.",
+  "origin": "Greek, through Latin and French",
+  "sentence": "A barge carried coal down the river."
+ },
+ {
+  "id": 140,
+  "word": "grumpily",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a manner that is moodily cross, surly or ill-humored.",
+  "origin": "English",
+  "sentence": "He grumpily climbed out of bed."
+ },
+ {
+  "id": 141,
+  "word": "smoothly",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "without roughness, abruptness, or interruption.",
+  "origin": "Old English",
+  "sentence": "The plane landed smoothly."
+ },
+ {
+  "id": 142,
+  "word": "cottage",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a small house typically used in the summer.",
+  "origin": "Old French and Medieval Latin",
+  "sentence": "We rented a cottage by the lake."
+ },
+ {
+  "id": 143,
+  "word": "humble",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "modest or meek in spirit, manner, or appearance : not proud or haughty.",
+  "origin": "Latin, through Old French",
+  "sentence": "The champion stayed humble after winning."
+ },
+ {
+  "id": 144,
+  "word": "seventy",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "seven tens : twice 35 : five times 14.",
+  "origin": "Old English",
+  "sentence": "Grandpa just turned seventy."
+ },
+ {
+  "id": 145,
+  "word": "dangle",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to hang loosely especially with a swinging or jerking motion.",
+  "origin": "Scandinavian",
+  "sentence": "Let your feet dangle off the dock."
+ },
+ {
+  "id": 146,
+  "word": "distance",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the length to be traveled.",
+  "origin": "Latin, through Old French",
+  "sentence": "The distance to school is two miles."
+ },
+ {
+  "id": 147,
+  "word": "breeze",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a light, gentle soft-blowing wind.",
+  "origin": "probably Spanish",
+  "sentence": "A cool breeze came through the window."
+ },
+ {
+  "id": 148,
+  "word": "soared",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "sailed or hovered in the air often at a great height : glided.",
+  "origin": "Latin, through Old French",
+  "sentence": "The eagle soared over the canyon."
+ },
+ {
+  "id": 149,
+  "word": "frazzled",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "reduced to a state of extreme physical or nervous fatigue.",
+  "origin": "English dialect",
+  "sentence": "After the long day, the teacher felt frazzled."
+ },
+ {
+  "id": 150,
+  "word": "bamboo",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a large woody plant having hollow stems that are so hard and durable as to be used for furniture and the young shoots of which are utilized as food.",
+  "origin": "Malay, through Dutch",
+  "sentence": "Pandas love to eat bamboo."
+ },
+ {
+  "id": 151,
+  "word": "buttons",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "disks or devices of other shapes that are used as fasteners on clothing or upholstery by passing them through a hole or loop.",
+  "origin": "Old French",
+  "sentence": "My coat has six shiny buttons."
+ },
+ {
+  "id": 152,
+  "word": "cuddle",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to hold close for warmth or comfort or in affection : to hug.",
+  "origin": "English",
+  "sentence": "I like to cuddle with my puppy."
+ },
+ {
+  "id": 153,
+  "word": "puffy",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "swollen or tending to swell in size : bloated.",
+  "origin": "Old English",
+  "sentence": "Her eyes were puffy after she cried."
+ },
+ {
+  "id": 154,
+  "word": "tiptoed",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "proceeded quietly or cautiously walking on or as if walking on the ends of the feet.",
+  "origin": "English",
+  "sentence": "We tiptoed past the sleeping baby."
+ },
+ {
+  "id": 155,
+  "word": "clever",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having mental quickness or intelligence.",
+  "origin": "Middle English",
+  "sentence": "The clever fox found a way out."
+ },
+ {
+  "id": 156,
+  "word": "basement",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the part of a building that is either completely or partly below the ground level.",
+  "origin": "Greek, through Latin and Italian",
+  "sentence": "We store holiday decorations in the basement."
+ },
+ {
+  "id": 157,
+  "word": "burlap",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a coarse heavy plain-woven fabric typically made from hemp or jute that is used for bagging and wrapping items.",
+  "origin": "origin unknown",
+  "sentence": "The potatoes were packed in burlap sacks."
+ },
+ {
+  "id": 158,
+  "word": "wetlands",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "lands containing much soil moisture, such as a swamp or bog.",
+  "origin": "Old English",
+  "sentence": "Many birds live in the wetlands."
+ },
+ {
+  "id": 159,
+  "word": "invite",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to request the presence or participation of : to solicit the company of : to ask.",
+  "origin": "Latin, through French",
+  "sentence": "I want to invite the whole class to my party."
+ },
+ {
+  "id": 160,
+  "word": "butterflies",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "slender-bodied diurnal insects that have very large broad wings which are often strikingly colored and patterned.",
+  "origin": "Old English",
+  "sentence": "Butterflies landed on the flowers."
+ },
+ {
+  "id": 161,
+  "word": "kelp",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a mass or growth of large seaweeds.",
+  "origin": "Middle English",
+  "sentence": "Sea otters wrap themselves in kelp."
+ },
+ {
+  "id": 162,
+  "word": "property",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "something that may be owned or possessed; specifically : a piece of real estate.",
+  "origin": "Latin, through Old French",
+  "sentence": "The fence marks the edge of our property."
+ },
+ {
+  "id": 163,
+  "word": "carefully",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "with attention to precision or to details : cautiously.",
+  "origin": "Old English",
+  "sentence": "Carry the glass carefully."
+ },
+ {
+  "id": 164,
+  "word": "sniffling",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "drawing air noisily up the nose repeatedly to prevent mucus running from the nose (as in a cold).",
+  "origin": "English, imitative of the sound",
+  "sentence": "He was sniffling all through the movie."
+ },
+ {
+  "id": 165,
+  "word": "beneath",
+  "alternates": [],
+  "partOfSpeech": "preposition",
+  "definition": "immediately under.",
+  "origin": "Old English",
+  "sentence": "The cat hid beneath the porch."
+ },
+ {
+  "id": 166,
+  "word": "tractor",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a usually four-wheeled vehicle used mainly on farms to pull or drive equipment.",
+  "origin": "Latin",
+  "sentence": "The farmer drove the tractor across the field."
+ },
+ {
+  "id": 167,
+  "word": "permit",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to consent to expressly or formally.",
+  "origin": "Latin",
+  "sentence": "The rules do not permit running in the hall."
+ },
+ {
+  "id": 168,
+  "word": "awning",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a usually canvas rooflike cover extended over a place as a shelter from the sun, rain, or wind.",
+  "origin": "origin unknown",
+  "sentence": "We waited under the awning until the rain stopped."
+ },
+ {
+  "id": 169,
+  "word": "fickle",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "given to ready change, inconstancy, whimsical choice, or unpredictable variability.",
+  "origin": "Old English",
+  "sentence": "The weather in spring can be fickle."
+ },
+ {
+  "id": 170,
+  "word": "relief",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "removal or lightening of something oppressive, painful, or distressing.",
+  "origin": "Latin, through Old French",
+  "sentence": "It was a relief to find my lost dog."
+ },
+ {
+  "id": 171,
+  "word": "lunar",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of, taking place on, or relating to the moon.",
+  "origin": "Latin",
+  "sentence": "We stayed up late to watch the lunar eclipse."
+ },
+ {
+  "id": 172,
+  "word": "boycotting",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "withholding social or business dealings from (a person, employer, or a nation) as an expression of disapproval or means of coercion.",
+  "origin": "English, from Charles Boycott, an Irish land agent",
+  "sentence": "The students were boycotting the new cafeteria menu."
+ },
+ {
+  "id": 173,
+  "word": "molten",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "fused or liquefied by heat : melted.",
+  "origin": "Old English",
+  "sentence": "Molten lava flowed down the volcano."
+ },
+ {
+  "id": 174,
+  "word": "elite",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "choice, superior, select.",
+  "origin": "Latin, through French",
+  "sentence": "Only elite athletes compete in the Olympics."
+ },
+ {
+  "id": 175,
+  "word": "woven",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "formed by interlacing strands, such as cloth.",
+  "origin": "Old English",
+  "sentence": "The basket was woven from reeds."
+ },
+ {
+  "id": 176,
+  "word": "proclaim",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to declare openly or publicly.",
+  "origin": "Latin",
+  "sentence": "The mayor will proclaim a town holiday."
+ },
+ {
+  "id": 177,
+  "word": "thimble",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a cuplike cover made usually of metal or plastic with a pitted surface and used to protect the end of a finger when pushing a needle through material.",
+  "origin": "Old English",
+  "sentence": "She used a thimble while sewing."
+ },
+ {
+  "id": 178,
+  "word": "custody",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "protection, care, maintenance, and tuition : guardianship.",
+  "origin": "Latin",
+  "sentence": "The zoo took custody of the injured eagle."
+ },
+ {
+  "id": 179,
+  "word": "granola",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "rolled oats mixed with other ingredients (such as brown sugar, raisins, coconut and nuts) and eaten for breakfast or as a snack.",
+  "origin": "English, from \"grain\"",
+  "sentence": "I sprinkle granola on my yogurt."
+ },
+ {
+  "id": 180,
+  "word": "warrior",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a human engaged or experienced in battle or the close combat typical of ancient or medieval times.",
+  "origin": "Old North French",
+  "sentence": "The warrior raised her shield."
+ },
+ {
+  "id": 181,
+  "word": "rigid",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "very firm rather than pliant in composition or structure : lacking flexibility.",
+  "origin": "Latin",
+  "sentence": "The cardboard box was rigid and strong."
+ },
+ {
+  "id": 182,
+  "word": "fierce",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "violently hostile or aggressive in temperament.",
+  "origin": "Latin, through Old French",
+  "sentence": "The fierce tiger growled."
+ },
+ {
+  "id": 183,
+  "word": "laughter",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the sound of air being expelled from the lungs in the expression of an emotion (such as joy).",
+  "origin": "Old English",
+  "sentence": "The room filled with laughter."
+ },
+ {
+  "id": 184,
+  "word": "salary",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "fixed compensation paid regularly for services.",
+  "origin": "Latin",
+  "sentence": "Her salary is paid every two weeks."
+ },
+ {
+  "id": 185,
+  "word": "disappear",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to cause to pass from view either suddenly or gradually.",
+  "origin": "Latin, through French",
+  "sentence": "The magician made the coin disappear."
+ },
+ {
+  "id": 186,
+  "word": "hurdler",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one that runs in a track event in which artificial barriers must be leaped.",
+  "origin": "Old English",
+  "sentence": "The hurdler cleared every barrier."
+ },
+ {
+  "id": 187,
+  "word": "lounge",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to act or move idly or lazily : to stand, sit, or recline indolently.",
+  "origin": "origin uncertain, possibly French",
+  "sentence": "Cats love to lounge in the sun."
+ },
+ {
+  "id": 188,
+  "word": "jovial",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "characterized by or showing marked good humor especially as exhibited in mirth, hilarity, or conviviality.",
+  "origin": "Latin, from Jove (Jupiter)",
+  "sentence": "Our jovial neighbor always waves hello."
+ },
+ {
+  "id": 189,
+  "word": "inferior",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of poor quality : second-rate.",
+  "origin": "Latin",
+  "sentence": "The cheap copy was inferior to the original."
+ },
+ {
+  "id": 190,
+  "word": "December",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the 12th month.",
+  "origin": "Latin",
+  "sentence": "We decorate the house in December."
+ },
+ {
+  "id": 191,
+  "word": "duration",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a portion of time which is measurable or during which something exists, lasts, or is in progress.",
+  "origin": "Latin",
+  "sentence": "Stay seated for the duration of the flight."
+ },
+ {
+  "id": 192,
+  "word": "dictionary",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a reference source in print or electronic form containing words usually alphabetically arranged along with information about their forms, pronunciations, functions, etymologies, meanings, and syntactical and idiomatic uses.",
+  "origin": "Medieval Latin",
+  "sentence": "Look up the word in the dictionary."
+ },
+ {
+  "id": 193,
+  "word": "business",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a place where a commercial or industrial enterprise is carried on.",
+  "origin": "Old English",
+  "sentence": "Her aunt runs a bakery business."
+ },
+ {
+  "id": 194,
+  "word": "reinstate",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to place again (as in possession or in a former position).",
+  "origin": "Latin and English",
+  "sentence": "The coach agreed to reinstate him on the team."
+ },
+ {
+  "id": 195,
+  "word": "examine",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to look over : to inspect visually or by use of other senses.",
+  "origin": "Latin, through French",
+  "sentence": "The doctor will examine your throat."
+ },
+ {
+  "id": 196,
+  "word": "versus",
+  "alternates": [],
+  "partOfSpeech": "preposition",
+  "definition": "against.",
+  "origin": "Latin",
+  "sentence": "Tonight's game is the Blue Team versus the Red Team."
+ },
+ {
+  "id": 197,
+  "word": "lullaby",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a song to quiet children or soothe them to sleep.",
+  "origin": "English, imitative",
+  "sentence": "Mom sang a lullaby to the baby."
+ },
+ {
+  "id": 198,
+  "word": "opposite",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "utterly different : contrary.",
+  "origin": "Latin, through French",
+  "sentence": "Hot is the opposite of cold."
+ },
+ {
+  "id": 199,
+  "word": "tissues",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "thin gauzy papers.",
+  "origin": "Latin, through Old French",
+  "sentence": "She packed the glass ornaments in tissues."
+ },
+ {
+  "id": 200,
+  "word": "marlin",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a large oceanic game fish : a spearfish.",
+  "origin": "English, from \"marlinspike\"",
+  "sentence": "The fisherman caught a huge marlin."
+ },
+ {
+  "id": 201,
+  "word": "Halloween",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the evening of October 31 observed especially by displaying jack-o'-lanterns, dressing up in disguise, and trick-or-treating in the evening.",
+  "origin": "Scottish English, from \"All Hallows' Eve\"",
+  "sentence": "We went trick-or-treating on Halloween."
+ },
+ {
+  "id": 202,
+  "word": "compliment",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to pay a formal expression (as by speech, gesture, or ceremony) of esteem, respect, affection, or admiration to.",
+  "origin": "Latin, through Italian and French",
+  "sentence": "I want to compliment you on your drawing."
+ },
+ {
+  "id": 203,
+  "word": "compromise",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to come to a settlement or agreement by mutual concession.",
+  "origin": "Latin, through French",
+  "sentence": "The sisters agreed to compromise and share the toy."
+ },
+ {
+  "id": 204,
+  "word": "incident",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an uncommon happening.",
+  "origin": "Latin, through French",
+  "sentence": "The teacher wrote a report about the incident."
+ },
+ {
+  "id": 205,
+  "word": "Japanese",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "characteristic of a country in eastern Asia made up of islands in the western Pacific.",
+  "origin": "Chinese and Japanese, with an English ending",
+  "sentence": "We ate dinner at a Japanese restaurant."
+ },
+ {
+  "id": 206,
+  "word": "investment",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the commitment of something other than money to a long-term interest or project.",
+  "origin": "Latin",
+  "sentence": "Learning to read is a great investment in your future."
+ },
+ {
+  "id": 207,
+  "word": "bifocals",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "eyeglasses with lenses having one part that corrects for near vision and one for distant vision.",
+  "origin": "Latin",
+  "sentence": "Grandma wears bifocals to read."
+ },
+ {
+  "id": 208,
+  "word": "cutlery",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "tools used to cut, serve, and eat food.",
+  "origin": "Latin, through French",
+  "sentence": "Please set the cutlery next to the plates."
+ },
+ {
+  "id": 209,
+  "word": "chisel",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a tool consisting of a metal bar with a sharpened edge at one end used for working on the surface of materials by chipping or carving.",
+  "origin": "Latin, through Old French",
+  "sentence": "The sculptor shaped the stone with a chisel."
+ },
+ {
+  "id": 210,
+  "word": "fundraiser",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an event or campaign organized to collect or gather money.",
+  "origin": "Latin and Old English",
+  "sentence": "Our school held a bake sale fundraiser."
+ },
+ {
+  "id": 211,
+  "word": "geologist",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a specialist in the history of Earth and its life especially as recorded in rocks.",
+  "origin": "Greek",
+  "sentence": "The geologist studied the layers of rock."
+ },
+ {
+  "id": 212,
+  "word": "bellowed",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "made a loud deep hollow prolonged sound.",
+  "origin": "Old English",
+  "sentence": "The bull bellowed in the field."
+ },
+ {
+  "id": 213,
+  "word": "organism",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a living being.",
+  "origin": "Greek, through French",
+  "sentence": "A tiny organism lives in the pond water."
+ },
+ {
+  "id": 214,
+  "word": "quail",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a migratory game bird of Europe, Asia, and Africa that is about seven inches long.",
+  "origin": "Medieval Latin, through Old French",
+  "sentence": "A quail ran across the path."
+ },
+ {
+  "id": 215,
+  "word": "atmosphere",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the whole mass of air surrounding the earth.",
+  "origin": "Greek",
+  "sentence": "Earth's atmosphere protects us from the sun."
+ },
+ {
+  "id": 216,
+  "word": "disappointment",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the act or an instance of failing to come up to expectations : the state or condition of being defeated in expectation or hope.",
+  "origin": "French",
+  "sentence": "Losing the game was a big disappointment."
+ },
+ {
+  "id": 217,
+  "word": "truant",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "absent from school without permission.",
+  "origin": "Old French, from a Celtic word",
+  "sentence": "The truant student was sent to the office."
+ },
+ {
+  "id": 218,
+  "word": "pamphlet",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an unbound publication with a small number of pages.",
+  "origin": "Medieval Latin, from \"Pamphilus\"",
+  "sentence": "The museum gave us a pamphlet about dinosaurs."
+ },
+ {
+  "id": 219,
+  "word": "helium",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a very light colorless inert gas used for diluting oxygen, inflating balloons, and in many chemical and metallurgical processes.",
+  "origin": "Greek",
+  "sentence": "The party balloons were filled with helium."
+ },
+ {
+  "id": 220,
+  "word": "suggested",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "put an idea or proposition into the mind.",
+  "origin": "Latin",
+  "sentence": "My friend suggested that we play outside."
+ },
+ {
+  "id": 221,
+  "word": "chimpanzees",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "anthropoid apes of equatorial Africa that are smaller and more arboreal than the gorillas.",
+  "origin": "Kongo (Bantu), through French",
+  "sentence": "Chimpanzees use sticks as tools."
+ },
+ {
+  "id": 222,
+  "word": "desperate",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "arising from or indicative of extreme need or pressure of circumstance.",
+  "origin": "Latin",
+  "sentence": "The desperate puppy whined for food."
+ },
+ {
+  "id": 223,
+  "word": "annoyance",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a source of irritation.",
+  "origin": "Latin, through Old French",
+  "sentence": "The buzzing fly was an annoyance."
+ },
+ {
+  "id": 224,
+  "word": "interruption",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an act of preventing (one) from proceeding by intrusive or interpolated comment or action.",
+  "origin": "Latin",
+  "sentence": "There was an interruption during the play."
+ },
+ {
+  "id": 225,
+  "word": "concentrate",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to bring or direct toward a common center or objective : to focus.",
+  "origin": "Latin",
+  "sentence": "It is hard to concentrate when it is noisy."
+ },
+ {
+  "id": 226,
+  "word": "piñata",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a decorated vessel (as of papier-mâché) filled with candies, fruits, and gifts and hung up to be broken with sticks by blindfolded persons as part of especially Latin-American festivities.",
+  "origin": "Spanish, from Italian",
+  "sentence": "We took turns swinging at the piñata."
+ },
+ {
+  "id": 227,
+  "word": "territory",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a geographical region that belongs to or is controlled by a political authority.",
+  "origin": "Latin",
+  "sentence": "The wolves guarded their territory."
+ },
+ {
+  "id": 228,
+  "word": "stragglers",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "ones that depart from the company to which they belong or from the direct or proper course.",
+  "origin": "Middle English",
+  "sentence": "The teacher waited for the stragglers to catch up."
+ },
+ {
+  "id": 229,
+  "word": "albino",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any organism exhibiting deficient pigmentation.",
+  "origin": "Portuguese, from Latin \"albus\" (white)",
+  "sentence": "The zoo has an albino alligator."
+ },
+ {
+  "id": 230,
+  "word": "ridiculous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "unworthy of serious consideration : absurd : comical : preposterous.",
+  "origin": "Latin",
+  "sentence": "The clown wore a ridiculous hat."
+ },
+ {
+  "id": 231,
+  "word": "monorail",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a single track for railway cars that usually sit over it or hang suspended from it.",
+  "origin": "Greek and Latin",
+  "sentence": "We rode the monorail around the park."
+ },
+ {
+  "id": 232,
+  "word": "exploratory",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "serving in or intended for an act or an instance of making a first or preliminary study of.",
+  "origin": "Latin",
+  "sentence": "The team made an exploratory trip into the cave."
+ },
+ {
+  "id": 233,
+  "word": "indigo",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a dark grayish blue color.",
+  "origin": "Greek, through Spanish and Portuguese",
+  "sentence": "The sky turned indigo after sunset."
+ },
+ {
+  "id": 234,
+  "word": "bratwurst",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "fresh pork sausage for frying or grilling.",
+  "origin": "German",
+  "sentence": "We grilled bratwurst at the picnic."
+ },
+ {
+  "id": 235,
+  "word": "alphabetical",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "proceeding according to the order of the letters of a language arranged in a customary order.",
+  "origin": "Greek",
+  "sentence": "Put the names in alphabetical order."
+ },
+ {
+  "id": 236,
+  "word": "integrity",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "strict adherence to a code of moral values : incorruptibility.",
+  "origin": "Latin",
+  "sentence": "She showed integrity by returning the lost wallet."
+ },
+ {
+  "id": 237,
+  "word": "Oregon",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a state in the northwestern part of the U.S.",
+  "origin": "uncertain, possibly French or Native American",
+  "sentence": "My cousin lives in Oregon."
+ },
+ {
+  "id": 238,
+  "word": "rebuttal",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the act of contradicting.",
+  "origin": "Old French",
+  "sentence": "The debater gave a strong rebuttal."
+ },
+ {
+  "id": 239,
+  "word": "prejudice",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an irrational attitude of animosity or hostility focused against a person, a group of people, a race, or their supposed characteristics.",
+  "origin": "Latin, through French",
+  "sentence": "We should judge people fairly, without prejudice."
+ },
+ {
+  "id": 240,
+  "word": "solidarity",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an entire union of interests and responsibilities in a group.",
+  "origin": "Latin, through French",
+  "sentence": "The students wore blue in solidarity with their friend."
+ },
+ {
+  "id": 241,
+  "word": "calico",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a blotched or spotted animal.",
+  "origin": "Malayalam, from Calicut, India",
+  "sentence": "Our calico cat has orange, black, and white fur."
+ },
+ {
+  "id": 242,
+  "word": "sputnik",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a man-made object or vehicle intended to orbit Earth, the Moon, or other celestial body and usually instrumented for the transmission of space data.",
+  "origin": "Russian",
+  "sentence": "A sputnik first orbited the Earth in 1957."
+ },
+ {
+  "id": 243,
+  "word": "cartridge",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a case for holding integrated circuits containing a computer program.",
+  "origin": "Italian, through French",
+  "sentence": "He put a new game cartridge into the console."
+ },
+ {
+  "id": 244,
+  "word": "segregation",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the separation of a group of people based on their race, class, or ethnic group by such means as restricting where they live, the people with whom they interact, and which schools they can attend.",
+  "origin": "Latin",
+  "sentence": "Civil rights leaders worked to end segregation."
+ },
+ {
+  "id": 245,
+  "word": "tortillas",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "round thin cakes of unleavened cornmeal bread usually eaten hot with a topping or filling that may include ground meat, cheese, and any of various sauces.",
+  "origin": "Spanish",
+  "sentence": "We filled the tortillas with beans and cheese."
+ },
+ {
+  "id": 246,
+  "word": "civilian",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a resident of a country who is not on active duty in one of the armed forces.",
+  "origin": "Latin, through French",
+  "sentence": "The soldier helped a civilian cross the bridge."
+ },
+ {
+  "id": 247,
+  "word": "fertilizer",
+  "alternates": [
+   "fertiliser"
+  ],
+  "partOfSpeech": "noun",
+  "definition": "a substance used to enrich soil.",
+  "origin": "Latin",
+  "sentence": "The farmer spread fertilizer on the field."
+ },
+ {
+  "id": 248,
+  "word": "apprentice",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a person who is in training to learn a trade from a skilled worker.",
+  "origin": "Latin, through Old French",
+  "sentence": "The apprentice learned to build furniture."
+ },
+ {
+  "id": 249,
+  "word": "synthetic",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "produced by artificial processes : man-made.",
+  "origin": "Greek",
+  "sentence": "The jacket is made of synthetic fabric."
+ },
+ {
+  "id": 250,
+  "word": "Caesar",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a powerful ruler : a dictator.",
+  "origin": "Latin",
+  "sentence": "The general ruled the land like a Caesar."
+ },
+ {
+  "id": 251,
+  "word": "sorceress",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a woman who practices black magic.",
+  "origin": "Latin, through French",
+  "sentence": "The sorceress cast a spell in the fairy tale."
+ },
+ {
+  "id": 252,
+  "word": "glamorous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "characterized by bewitching intangible irresistibly magnetic charm.",
+  "origin": "Scots, from \"grammar\"",
+  "sentence": "The actress wore a glamorous gown."
+ },
+ {
+  "id": 253,
+  "word": "salamanders",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "small amphibians that resemble lizards, are covered with a soft moist skin, live in moist dark places, and feed on small animals such as aquatic worms and insects.",
+  "origin": "Greek, through Latin and French",
+  "sentence": "We found salamanders under the log."
+ },
+ {
+  "id": 254,
+  "word": "suspension",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "temporary forced withdrawal from the exercise of office, powers, or privileges as a member or communicant.",
+  "origin": "Latin",
+  "sentence": "The player received a one-game suspension."
+ },
+ {
+  "id": 255,
+  "word": "singularity",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an unusual manifestation or eccentricity in manner or behavior.",
+  "origin": "Latin",
+  "sentence": "Her singularity of style made her stand out."
+ },
+ {
+  "id": 256,
+  "word": "fictitious",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of, relating to, suggestive of, or being an intentional fabrication.",
+  "origin": "Latin",
+  "sentence": "The town in the story is fictitious."
+ },
+ {
+  "id": 257,
+  "word": "convertible",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an automobile having a top that may be folded back, lowered, or removed.",
+  "origin": "Latin",
+  "sentence": "We rode in a red convertible with the top down."
+ },
+ {
+  "id": 258,
+  "word": "snarkiness",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "sarcastic, impertinent, or irreverent manner or tone.",
+  "origin": "English dialect",
+  "sentence": "Her snarkiness got her in trouble with the teacher."
+ },
+ {
+  "id": 259,
+  "word": "battalion",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a considerable body of troops organized to act together : an army.",
+  "origin": "Italian, through French",
+  "sentence": "The battalion marched across the field."
+ },
+ {
+  "id": 260,
+  "word": "collateral",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not resulting directly from an action or cause : indirect.",
+  "origin": "Medieval Latin",
+  "sentence": "The storm caused collateral damage to nearby trees."
+ },
+ {
+  "id": 261,
+  "word": "initiation",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the rites or ceremonies with which one is made a member of a sect or society or is invested with a particular function or status.",
+  "origin": "Latin",
+  "sentence": "The new members went through an initiation ceremony."
+ },
+ {
+  "id": 262,
+  "word": "mascara",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a cosmetic for covering the eyelashes and eyebrows.",
+  "origin": "Spanish and Italian, from Arabic",
+  "sentence": "Her mascara ran when she cried."
+ },
+ {
+  "id": 263,
+  "word": "perimeter",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the sum of the lengths of the line segments forming a polygon.",
+  "origin": "Greek, through Latin",
+  "sentence": "Find the perimeter of the rectangle."
+ },
+ {
+  "id": 264,
+  "word": "precedent",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "something done or said that may serve as an example or rule to authorize or justify a subsequent act of the same or an analogous kind.",
+  "origin": "Latin, through French",
+  "sentence": "The judge's ruling set a precedent."
+ },
+ {
+  "id": 265,
+  "word": "materialize",
+  "alternates": [
+   "materialise"
+  ],
+  "partOfSpeech": "verb",
+  "definition": "to come into actual existence.",
+  "origin": "Latin",
+  "sentence": "Our plans for a tree house began to materialize."
+ },
+ {
+  "id": 266,
+  "word": "magnesium",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a silver-white malleable metallic element that occurs abundantly in nature.",
+  "origin": "Greek, through Latin (from Magnesia)",
+  "sentence": "Magnesium burns with a bright white flame."
+ },
+ {
+  "id": 267,
+  "word": "meticulous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "commendably thorough or precise : strict.",
+  "origin": "Latin",
+  "sentence": "She kept meticulous notes in science class."
+ },
+ {
+  "id": 268,
+  "word": "haddock",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an important food fish that is usually smaller than the common cod and has a black lateral line and a dark spot just behind the gills.",
+  "origin": "Middle English, origin uncertain",
+  "sentence": "We ate haddock for dinner."
+ },
+ {
+  "id": 269,
+  "word": "hypothermia",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "subnormal temperature of the body.",
+  "origin": "Greek",
+  "sentence": "The hikers were treated for hypothermia."
+ },
+ {
+  "id": 270,
+  "word": "optometrist",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a specialist in the examination of the eye for defects and faults of refraction and the prescription of correctional lenses and exercises but not including the use of drugs or surgery.",
+  "origin": "Greek",
+  "sentence": "The optometrist said I need glasses."
+ },
+ {
+  "id": 271,
+  "word": "megahertz",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a unit of frequency equal to one million cycles per second.",
+  "origin": "Greek and German (from Heinrich Hertz)",
+  "sentence": "The radio station broadcasts at ninety-eight megahertz."
+ },
+ {
+  "id": 272,
+  "word": "cosmodrome",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a Soviet aerospace center; especially : a Soviet spacecraft launching installation.",
+  "origin": "Russian, from Greek",
+  "sentence": "The rocket launched from the cosmodrome."
+ },
+ {
+  "id": 273,
+  "word": "arthritis",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "inflammation of one or more joints due to infectious, metabolic, or constitutional causes.",
+  "origin": "Greek",
+  "sentence": "Grandma's arthritis makes her hands sore."
+ },
+ {
+  "id": 274,
+  "word": "schnauzer",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a dog of a breed of terriers that have a long head with small ears and heavy eyebrows, mustache, beard, and wiry coat.",
+  "origin": "German",
+  "sentence": "Our schnauzer barks at the mail carrier."
+ },
+ {
+  "id": 275,
+  "word": "insurrection",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an act or instance of revolting against civil or political authority or against an established government.",
+  "origin": "Latin",
+  "sentence": "The king's army put down the insurrection."
+ },
+ {
+  "id": 276,
+  "word": "regolith",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "unconsolidated residual or transported material that overlies or covers the solid rock in place.",
+  "origin": "Greek",
+  "sentence": "Astronauts left footprints in the lunar regolith."
+ },
+ {
+  "id": 277,
+  "word": "pentathlete",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one participating in an athletic contest involving participation by each contestant in five different events.",
+  "origin": "Greek",
+  "sentence": "The pentathlete ran, swam, and rode a horse."
+ },
+ {
+  "id": 278,
+  "word": "persnickety",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "excessively meticulous : fussy.",
+  "origin": "Scots",
+  "sentence": "My cat is persnickety about her food."
+ },
+ {
+  "id": 279,
+  "word": "fascism",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any program for setting up a centralized autocratic national regime that has severely nationalistic policies, exercises rigid censorship, and forcibly suppresses opposition.",
+  "origin": "Italian",
+  "sentence": "The history class studied the rise of fascism."
+ },
+ {
+  "id": 280,
+  "word": "pheasants",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "large, often long-tailed, and brilliantly colored birds of mostly terrestrial habits.",
+  "origin": "Greek, through Latin and French",
+  "sentence": "Pheasants ran through the tall grass."
+ },
+ {
+  "id": 281,
+  "word": "predecessor",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one who comes before in order of time; especially : a person who has previously occupied a position or office to which another has succeeded.",
+  "origin": "Latin, through French",
+  "sentence": "The new principal thanked her predecessor."
+ },
+ {
+  "id": 282,
+  "word": "Senegal",
+  "alternates": [],
+  "partOfSpeech": "geographical entry",
+  "definition": "country in western Africa on the Atlantic; a republic of the French Community, formerly a territory of French West Africa.",
+  "origin": "Wolof, through Portuguese",
+  "sentence": "Senegal is on the west coast of Africa."
+ },
+ {
+  "id": 283,
+  "word": "reservoir",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a place where water is collected and kept in quantity for use when wanted.",
+  "origin": "French",
+  "sentence": "The town gets its water from a reservoir."
+ },
+ {
+  "id": 284,
+  "word": "duende",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the power to attract through personal magnetism and charm.",
+  "origin": "Spanish",
+  "sentence": "The flamenco dancer performed with duende."
+ },
+ {
+  "id": 285,
+  "word": "conscious",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "mentally active : fully possessed of one's mental faculties : awake.",
+  "origin": "Latin",
+  "sentence": "The patient was conscious after surgery."
+ },
+ {
+  "id": 286,
+  "word": "Polaroid",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "used for a light-polarizing material used especially in eyeglasses and lamps to prevent glare and in various optical devices.",
+  "origin": "English (trademark)",
+  "sentence": "Polaroid lenses cut the glare on the water."
+ },
+ {
+  "id": 287,
+  "word": "carrion",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the decaying flesh of a dead animal.",
+  "origin": "Latin, through Old French",
+  "sentence": "Vultures feed on carrion."
+ },
+ {
+  "id": 288,
+  "word": "matrilineal",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "relating to, based on, or tracing descent through the maternal line.",
+  "origin": "Latin",
+  "sentence": "The tribe traced its family line in a matrilineal way."
+ },
+ {
+  "id": 289,
+  "word": "piteously",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a manner deserving mercy or compassion.",
+  "origin": "Latin, through Old French",
+  "sentence": "The lost kitten mewed piteously."
+ },
+ {
+  "id": 290,
+  "word": "arnica",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the dried flower head of any herb of a large genus of herbs of the northern hemisphere used for bruises, sprains, and swellings.",
+  "origin": "New Latin, possibly from Greek",
+  "sentence": "She rubbed arnica on her bruised knee."
+ },
+ {
+  "id": 291,
+  "word": "elliptical",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of, relating to, or shaped like an elongated circle.",
+  "origin": "Greek",
+  "sentence": "Planets travel in elliptical orbits."
+ },
+ {
+  "id": 292,
+  "word": "glaucoma",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a disease of the eye marked by increased pressure within the eyeball that damages the optic disk and results in gradual loss of vision and ultimate blindness.",
+  "origin": "Greek",
+  "sentence": "The eye doctor tested Grandpa for glaucoma."
+ },
+ {
+  "id": 293,
+  "word": "iridium",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a heavy silver-white metallic element that is used especially in hardening platinum for alloys suitable for surgical instruments and jewelry.",
+  "origin": "Greek, through Latin (from \"iris\")",
+  "sentence": "Iridium is one of the densest metals."
+ },
+ {
+  "id": 294,
+  "word": "adrenaline",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a blood-pressure-raising hormone of the medulla of the glands adjacent to the kidneys, used chiefly as a heart stimulant.",
+  "origin": "Latin",
+  "sentence": "The roller coaster gave me a rush of adrenaline."
+ },
+ {
+  "id": 295,
+  "word": "cemetery",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a graveyard : a burial ground.",
+  "origin": "Greek, through Latin",
+  "sentence": "Old trees shade the quiet cemetery."
+ },
+ {
+  "id": 296,
+  "word": "staccato",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "marked by short clear-cut playing or singing of tones or chords.",
+  "origin": "Italian",
+  "sentence": "The pianist played short staccato notes."
+ },
+ {
+  "id": 297,
+  "word": "rendezvous",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a meeting at an appointed place and time.",
+  "origin": "French",
+  "sentence": "The scouts set a rendezvous at the big oak tree."
+ },
+ {
+  "id": 298,
+  "word": "romerillo",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a South American herb whose flower heads yield a yellow dye.",
+  "origin": "Spanish",
+  "sentence": "Romerillo flowers can be used to make yellow dye."
+ },
+ {
+  "id": 299,
+  "word": "dachshund",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a small dog of a breed of German origin having long drooping ears, commonly a short sleek coat, and the legs short in comparison with the body length.",
+  "origin": "German",
+  "sentence": "The dachshund waddled on its short legs."
+ },
+ {
+  "id": 300,
+  "word": "Aeolus",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the Greek god of the winds.",
+  "origin": "Greek",
+  "sentence": "In the myth, Aeolus kept the winds in a bag."
+ },
+ {
+  "id": 301,
+  "word": "newt",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any of various small semiaquatic salamanders.",
+  "origin": "Old English",
+  "sentence": "A newt swam in the shallow pond."
+ },
+ {
+  "id": 302,
+  "word": "thrummed",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "sounded with a repeated and often monotonous hum like a vibrating string on an instrument.",
+  "origin": "English, imitative of the sound",
+  "sentence": "The guitar strings thrummed softly."
+ },
+ {
+  "id": 303,
+  "word": "embankment",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a structure (as of earth or gravel) raised usually to prevent water from overflowing a level tract of country, to retain water in a reservoir or a stream in its bed, or to carry a roadway or railroad.",
+  "origin": "French and English",
+  "sentence": "The train ran along the high embankment."
+ },
+ {
+  "id": 304,
+  "word": "lapels",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "a turned-back facing usually wide and pointed at the top and tapering to nothing at the bottom that is usually one of a pair along the front edges of a jacket, dress, or coat and extends from the collar or neckline to or toward the waistline.",
+  "origin": "French",
+  "sentence": "He pinned a flower to one of his lapels."
+ },
+ {
+  "id": 305,
+  "word": "generosity",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the quality or state of being very free or openhanded in giving.",
+  "origin": "Latin, through French",
+  "sentence": "We thanked them for their generosity."
+ },
+ {
+  "id": 306,
+  "word": "burnished",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "made shiny or lustrous : polished.",
+  "origin": "Old French",
+  "sentence": "The knight burnished his armor."
+ },
+ {
+  "id": 307,
+  "word": "mortar",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "something that binds or holds together.",
+  "origin": "Latin, through Old French",
+  "sentence": "Kindness is the mortar that holds friendships together."
+ },
+ {
+  "id": 308,
+  "word": "unrelenting",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not softening, yielding, or swerving in resolution or determination.",
+  "origin": "Latin and English",
+  "sentence": "The unrelenting rain lasted all week."
+ },
+ {
+  "id": 309,
+  "word": "wallowing",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "becoming helpless or ineffectual : losing the ability to function naturally or efficiently.",
+  "origin": "Old English",
+  "sentence": "Stop wallowing and get back to work."
+ },
+ {
+  "id": 310,
+  "word": "imperial",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of or relating to a state as governing or being supreme over colonies or dependencies.",
+  "origin": "Latin",
+  "sentence": "The imperial palace had golden gates."
+ },
+ {
+  "id": 311,
+  "word": "persistent",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "continuing in a course of action without regard to opposition or previous failure.",
+  "origin": "Latin",
+  "sentence": "The persistent student practiced every day."
+ },
+ {
+  "id": 312,
+  "word": "arsonists",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "people who deliberately set fire to a building or other property.",
+  "origin": "Latin, through French",
+  "sentence": "Police caught the arsonists who started the fire."
+ },
+ {
+  "id": 313,
+  "word": "mewling",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "making whimpering sounds : whining.",
+  "origin": "English, imitative of the sound",
+  "sentence": "The newborn kittens were mewling for milk."
+ },
+ {
+  "id": 314,
+  "word": "generator",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a machine by which mechanical energy is changed into electrical energy.",
+  "origin": "Latin",
+  "sentence": "We used a generator when the power went out."
+ },
+ {
+  "id": 315,
+  "word": "dominion",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a territory or country subject to a ruler or under the control of a particular government.",
+  "origin": "Latin, through French",
+  "sentence": "The queen ruled over a vast dominion."
+ },
+ {
+  "id": 316,
+  "word": "authority",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "power to require and receive submission : the right to expect obedience.",
+  "origin": "Latin, through French",
+  "sentence": "The principal has the authority to close the school."
+ },
+ {
+  "id": 317,
+  "word": "panoramic",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of, relating to, or resembling an unobstructed or complete and comprehensive view of a region in every direction.",
+  "origin": "Greek",
+  "sentence": "We enjoyed a panoramic view from the mountaintop."
+ },
+ {
+  "id": 318,
+  "word": "Doberman",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a short-haired German dog, typically with a black coat.",
+  "origin": "German (from Louis Dobermann)",
+  "sentence": "The Doberman guarded the gate."
+ },
+ {
+  "id": 319,
+  "word": "lemmings",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "small rodents that are usually colored tawny yellowish and that are notable for population fluctuations and recurrent mass migrations.",
+  "origin": "Norwegian",
+  "sentence": "Lemmings live in the Arctic tundra."
+ },
+ {
+  "id": 320,
+  "word": "decisively",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a manner having the power of resolving or putting an end to : conclusively.",
+  "origin": "Latin, through French",
+  "sentence": "Our team won the game decisively."
+ },
+ {
+  "id": 321,
+  "word": "gauntlets",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "gloves designed to protect the hand from injury.",
+  "origin": "French, from a Germanic word",
+  "sentence": "The knight wore iron gauntlets."
+ },
+ {
+  "id": 322,
+  "word": "inanimate",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not endowed with consciousness or animal life.",
+  "origin": "Latin",
+  "sentence": "A rock is an inanimate object."
+ },
+ {
+  "id": 323,
+  "word": "frequency",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the fact or condition of occurring at short intervals : occurrence often repeated : common occurrence.",
+  "origin": "Latin",
+  "sentence": "The frequency of storms increases in summer."
+ },
+ {
+  "id": 324,
+  "word": "auditory",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of or relating to hearing.",
+  "origin": "Latin",
+  "sentence": "Music lessons help train your auditory skills."
+ },
+ {
+  "id": 325,
+  "word": "appetizing",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "appealing to the taste especially in appearance.",
+  "origin": "Latin, through French",
+  "sentence": "The pie looked very appetizing."
+ },
+ {
+  "id": 326,
+  "word": "sentinels",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "ones that watch or guard : sentries.",
+  "origin": "Italian, through French",
+  "sentence": "Two sentinels stood at the castle gate."
+ },
+ {
+  "id": 327,
+  "word": "blithely",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a careless or inattentive manner.",
+  "origin": "Old English",
+  "sentence": "She blithely ignored the warning sign."
+ },
+ {
+  "id": 328,
+  "word": "self-sufficient",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "able to maintain oneself or itself without outside aid : capable of providing for one's or its own needs.",
+  "origin": "Old English and Latin",
+  "sentence": "The farm family was nearly self-sufficient."
+ },
+ {
+  "id": 329,
+  "word": "prospective",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "likely to be or become.",
+  "origin": "Latin",
+  "sentence": "The coach met with prospective players."
+ },
+ {
+  "id": 330,
+  "word": "subscription",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a purchase by prepayment of the future issues of a publication usually for a fixed period (such as a year).",
+  "origin": "Latin",
+  "sentence": "I got a magazine subscription for my birthday."
+ },
+ {
+  "id": 331,
+  "word": "tenuous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having little substance or strength : flimsy : weak.",
+  "origin": "Latin",
+  "sentence": "His excuse was tenuous at best."
+ },
+ {
+  "id": 332,
+  "word": "conspicuous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "undesirably noticeable by reason of violation of good taste or sense.",
+  "origin": "Latin",
+  "sentence": "The bright orange hat was conspicuous in the crowd."
+ },
+ {
+  "id": 333,
+  "word": "preconception",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an idea formed prior to actual knowledge or experience.",
+  "origin": "Latin",
+  "sentence": "She had a preconception that math would be hard."
+ },
+ {
+  "id": 334,
+  "word": "procession",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a group of people moving along on a particular course especially in a continuous, orderly, often formal or ceremonial way and usually arranged in a long line.",
+  "origin": "Latin",
+  "sentence": "A long procession marched through town."
+ },
+ {
+  "id": 335,
+  "word": "saxophone",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a wind instrument that combines the reed mouthpiece of a clarinet with a usually curved conical metal tube made in various sizes.",
+  "origin": "French (from Adolphe Sax) and Greek",
+  "sentence": "He plays the saxophone in the school band."
+ },
+ {
+  "id": 336,
+  "word": "perpendicular",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "being or set at right angles to a given line or plane.",
+  "origin": "Latin",
+  "sentence": "The two streets are perpendicular to each other."
+ },
+ {
+  "id": 337,
+  "word": "hemisphere",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a half of the terrestrial globe as divided by the equator or into halves one of which contains Europe, Asia, and Africa and the other the Americas.",
+  "origin": "Greek, through Latin",
+  "sentence": "The United States is in the Northern Hemisphere."
+ },
+ {
+  "id": 338,
+  "word": "seminal",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having the character of an originative power, principle, or source : containing or contributing the seeds of later development.",
+  "origin": "Latin",
+  "sentence": "Her seminal discovery changed modern science."
+ },
+ {
+  "id": 339,
+  "word": "canter",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to move at or as if at a three-beat gait resembling but smoother and slower than the gallop.",
+  "origin": "English, from Canterbury",
+  "sentence": "The horse began to canter across the meadow."
+ },
+ {
+  "id": 340,
+  "word": "torrential",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "relating to or having the character of a rushing stream of water.",
+  "origin": "Latin, through French",
+  "sentence": "Torrential rain flooded the streets."
+ },
+ {
+  "id": 341,
+  "word": "reluctance",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the quality or state of being hesitant from dislike, doubt, fear, or scruple.",
+  "origin": "Latin",
+  "sentence": "He showed reluctance to jump into the cold pool."
+ },
+ {
+  "id": 342,
+  "word": "consulate",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the premises or the residence of an official appointed by or with the authority of a government to reside in a foreign country to represent the interests of citizens of the appointing country.",
+  "origin": "Latin",
+  "sentence": "We went to the consulate to get a visa."
+ },
+ {
+  "id": 343,
+  "word": "cuisine",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a manner of preparing food : a style of cooking.",
+  "origin": "French",
+  "sentence": "Italian cuisine is famous for its pasta."
+ },
+ {
+  "id": 344,
+  "word": "sauntered",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "walked about idly and in a leisurely manner.",
+  "origin": "Middle English, origin uncertain",
+  "sentence": "The cat sauntered across the kitchen."
+ },
+ {
+  "id": 345,
+  "word": "propeller",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a mechanical device having one or more blades which when rotated about a central shaft produce a forward thrust due to the aerodynamic forces acting upon them.",
+  "origin": "Latin",
+  "sentence": "The airplane's propeller started to spin."
+ },
+ {
+  "id": 346,
+  "word": "modish",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "fashionable.",
+  "origin": "Latin, through French",
+  "sentence": "She wore a modish new jacket."
+ },
+ {
+  "id": 347,
+  "word": "influenza",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an acute highly contagious infectious virus disease.",
+  "origin": "Italian",
+  "sentence": "Influenza is often called the flu."
+ },
+ {
+  "id": 348,
+  "word": "juniper",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an evergreen shrub or tree having a prostrate or shrubby habit.",
+  "origin": "Latin",
+  "sentence": "A juniper grew beside the rocky trail."
+ },
+ {
+  "id": 349,
+  "word": "settee",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a medium-sized sofa with arms and a back.",
+  "origin": "Old English (from \"settle\")",
+  "sentence": "Grandma sat on the settee by the window."
+ },
+ {
+  "id": 350,
+  "word": "unconscious",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not knowing or perceiving : not aware.",
+  "origin": "Latin and English",
+  "sentence": "He was unconscious of the noise around him."
+ },
+ {
+  "id": 351,
+  "word": "odorant",
+  "alternates": [
+   "odourant"
+  ],
+  "partOfSpeech": "adjective",
+  "definition": "emitting a scent.",
+  "origin": "Latin",
+  "sentence": "The odorant flowers filled the room with scent."
+ },
+ {
+  "id": 352,
+  "word": "palazzo",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a palace or other large imposing residence.",
+  "origin": "Italian",
+  "sentence": "The tourists visited a palazzo in Venice."
+ },
+ {
+  "id": 353,
+  "word": "finesse",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "delicate skill : exquisite grace.",
+  "origin": "French",
+  "sentence": "The chef decorated the cake with finesse."
+ },
+ {
+  "id": 354,
+  "word": "foliage",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "leafage.",
+  "origin": "French",
+  "sentence": "The fall foliage was red and gold."
+ },
+ {
+  "id": 355,
+  "word": "crocheted",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "made of needlework consisting of the interlocking of looped stitches formed with a single thread and a hooked needle.",
+  "origin": "French",
+  "sentence": "Grandma crocheted a blanket for the baby."
+ },
+ {
+  "id": 356,
+  "word": "irrelevant",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not applicable or pertinent.",
+  "origin": "Latin",
+  "sentence": "That detail is irrelevant to the story."
+ },
+ {
+  "id": 357,
+  "word": "curriculum",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the whole body of courses offered by an educational institution or one of its branches.",
+  "origin": "Latin",
+  "sentence": "Art is part of our school curriculum."
+ },
+ {
+  "id": 358,
+  "word": "quizzically",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a questioning, curious manner.",
+  "origin": "English",
+  "sentence": "The puppy tilted its head quizzically."
+ },
+ {
+  "id": 359,
+  "word": "apologetic",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "regretfully excusing or acknowledging.",
+  "origin": "Greek, through Latin and French",
+  "sentence": "He gave an apologetic smile after bumping into me."
+ },
+ {
+  "id": 360,
+  "word": "diplomatically",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a manner employing tact and the effort to establish harmony and goodwill.",
+  "origin": "Greek, through French",
+  "sentence": "She diplomatically settled the argument."
+ },
+ {
+  "id": 361,
+  "word": "enigmatic",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "mysterious, puzzling.",
+  "origin": "Greek, through Latin",
+  "sentence": "The painting shows a woman with an enigmatic smile."
+ },
+ {
+  "id": 362,
+  "word": "increments",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "growths in size, number, or value.",
+  "origin": "Latin",
+  "sentence": "Add the water in small increments."
+ },
+ {
+  "id": 363,
+  "word": "Delaware",
+  "alternates": [],
+  "partOfSpeech": "geographical entry",
+  "definition": "state of the eastern U.S., capital Dover.",
+  "origin": "English (from Baron De La Warr)",
+  "sentence": "Delaware was the first state to approve the Constitution."
+ },
+ {
+  "id": 364,
+  "word": "calibrate",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to adjust precisely for a particular function.",
+  "origin": "Arabic, through Italian and French",
+  "sentence": "Scientists calibrate their scales before testing."
+ },
+ {
+  "id": 365,
+  "word": "hypothesis",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a proposition tentatively assumed in order to draw out its logical or empirical consequences and so test its accord with facts that are known or may be determined.",
+  "origin": "Greek",
+  "sentence": "Our hypothesis was that plants grow faster in sunlight."
+ },
+ {
+  "id": 366,
+  "word": "reassurance",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the action of inspiring anew with courage, spirit, or hope or the state of being so inspired.",
+  "origin": "Latin, through French",
+  "sentence": "The nervous puppy needed reassurance."
+ },
+ {
+  "id": 367,
+  "word": "undulating",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "rising and falling in waves : fluctuating.",
+  "origin": "Latin",
+  "sentence": "The undulating hills rolled toward the sea."
+ },
+ {
+  "id": 368,
+  "word": "credenza",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a sideboard, buffet, or bookcase patterned after an elaborate cupboard of the Renaissance period; especially : one without legs whose base rests flat on the floor.",
+  "origin": "Italian",
+  "sentence": "The family photos sit on the credenza."
+ },
+ {
+  "id": 369,
+  "word": "comprehensible",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "capable of being understood : intelligible, conceivable.",
+  "origin": "Latin",
+  "sentence": "The teacher made the lesson comprehensible to everyone."
+ },
+ {
+  "id": 370,
+  "word": "protectorate",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a territory that is controlled politically by a larger, more powerful state especially for foreign relations and defense.",
+  "origin": "Latin",
+  "sentence": "The island became a protectorate of the larger nation."
+ },
+ {
+  "id": 371,
+  "word": "brazier",
+  "alternates": [
+   "brasier"
+  ],
+  "partOfSpeech": "noun",
+  "definition": "a cooking utensil in which the food to be cooked is exposed to the source of heat (as live coals or electricity) through a wire grill.",
+  "origin": "French",
+  "sentence": "They grilled fish over a small brazier."
+ },
+ {
+  "id": 372,
+  "word": "phenomenon",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an exceptional, unusual, or abnormal thing or occurrence.",
+  "origin": "Greek",
+  "sentence": "A rainbow is a beautiful natural phenomenon."
+ },
+ {
+  "id": 373,
+  "word": "trenchant",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "sharply perceptive : penetrating.",
+  "origin": "Old French",
+  "sentence": "The critic wrote a trenchant review."
+ },
+ {
+  "id": 374,
+  "word": "pulmonary",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of, relating to, or associated with the lungs.",
+  "origin": "Latin",
+  "sentence": "The doctor specializes in pulmonary health."
+ },
+ {
+  "id": 375,
+  "word": "phantasmal",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "like a figment of the imagination : illusive, spectral, unreal.",
+  "origin": "Greek, through Latin and French",
+  "sentence": "A phantasmal shape drifted through the fog."
+ },
+ {
+  "id": 376,
+  "word": "alleviate",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to lighten : to lessen : to relieve.",
+  "origin": "Latin",
+  "sentence": "Ice can alleviate the swelling."
+ },
+ {
+  "id": 377,
+  "word": "despondent",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "feeling extreme discouragement, dejection, or depression.",
+  "origin": "Latin",
+  "sentence": "He was despondent after losing his kite."
+ },
+ {
+  "id": 378,
+  "word": "approximation",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an approach especially to a correct estimate or to a given quantity.",
+  "origin": "Latin",
+  "sentence": "Three is a rough approximation of pi."
+ },
+ {
+  "id": 379,
+  "word": "arachnid",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one of a large class of arthropods including scorpions, spiders, and mites.",
+  "origin": "Greek",
+  "sentence": "A tarantula is a large arachnid."
+ },
+ {
+  "id": 380,
+  "word": "legation",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a diplomatic mission in a foreign country headed by a minister.",
+  "origin": "Latin",
+  "sentence": "The legation met with the foreign leaders."
+ },
+ {
+  "id": 381,
+  "word": "echolocation",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a process of animal orientation and navigation that involves emission of high-frequency sounds that are reflected back from environing surfaces.",
+  "origin": "Greek and Latin",
+  "sentence": "Bats use echolocation to find insects."
+ },
+ {
+  "id": 382,
+  "word": "censers",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "vessels for burning material used to produce a fragrant odor; especially : such vessels swung on chains in a religious ritual.",
+  "origin": "Latin, through French",
+  "sentence": "The priests swung censers during the ceremony."
+ },
+ {
+  "id": 383,
+  "word": "affinities",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "attractions to or likings for something.",
+  "origin": "Latin, through French",
+  "sentence": "The twins share affinities for music and art."
+ },
+ {
+  "id": 384,
+  "word": "diffidence",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "distrust of oneself or of one's own powers : modest reserve.",
+  "origin": "Latin",
+  "sentence": "Her diffidence kept her from raising her hand."
+ },
+ {
+  "id": 385,
+  "word": "conflagration",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a large disastrous fire involving many buildings.",
+  "origin": "Latin",
+  "sentence": "The conflagration destroyed several city blocks."
+ },
+ {
+  "id": 386,
+  "word": "pathologically",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a diseased manner.",
+  "origin": "Greek",
+  "sentence": "The character in the story was pathologically afraid of birds."
+ },
+ {
+  "id": 387,
+  "word": "embodiment",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a thing in which something (as a soul, idea, principle or type) is made concrete by expression in perceptible form : an incarnation.",
+  "origin": "English",
+  "sentence": "The coach is the embodiment of good sportsmanship."
+ },
+ {
+  "id": 388,
+  "word": "butane",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "either of two flammable gaseous hydrocarbons obtained usually from petroleum or natural gas and occurring in gasoline and in liquefied petroleum gas.",
+  "origin": "Latin (from \"butyrum\")",
+  "sentence": "The camping stove runs on butane."
+ },
+ {
+  "id": 389,
+  "word": "thermotaxis",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the regulation of body temperature.",
+  "origin": "Greek",
+  "sentence": "Thermotaxis helps animals keep a steady body temperature."
+ },
+ {
+  "id": 390,
+  "word": "glycerin",
+  "alternates": [
+   "glycerine"
+  ],
+  "partOfSpeech": "noun",
+  "definition": "a sweet syrupy alcohol that is formed by fermentation of sugars, and used chiefly as a solvent and plasticizer, as a moistening agent, emollient, and lubricant, and as an emulsifying agent.",
+  "origin": "Greek, through French",
+  "sentence": "Some soaps contain glycerin."
+ },
+ {
+  "id": 391,
+  "word": "porpoises",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "small toothed whales that tend to live in a community rather than alone.",
+  "origin": "Latin, through French (\"pig fish\")",
+  "sentence": "Porpoises swam beside our boat."
+ },
+ {
+  "id": 392,
+  "word": "cataract",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a clouding of the lens of the eye varying in degree from slight to complete opacity and obstructing the passage of light.",
+  "origin": "Greek, through Latin",
+  "sentence": "Grandpa had surgery to remove a cataract."
+ },
+ {
+  "id": 393,
+  "word": "inaugurate",
+  "alternates": [],
+  "partOfSpeech": "verb",
+  "definition": "to introduce or induct into an office with suitable ceremonies or solemnities : to invest with power or authority in a formal manner.",
+  "origin": "Latin",
+  "sentence": "The city will inaugurate its new mayor in January."
+ },
+ {
+  "id": 394,
+  "word": "alabaster",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "having a nearly white color and a surface that spreads out light.",
+  "origin": "Greek, through Latin",
+  "sentence": "The queen's alabaster vase glowed in the sunlight."
+ },
+ {
+  "id": 395,
+  "word": "psychological",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "relating to, arising in, or acting through the mind especially in its affective or cognitive functions.",
+  "origin": "Greek",
+  "sentence": "Stress can have psychological effects."
+ },
+ {
+  "id": 396,
+  "word": "quiche",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a baked custard pie usually having an added savory ingredient (as chopped ham, seafood, or vegetables).",
+  "origin": "French, from German \"Kuchen\"",
+  "sentence": "We had spinach quiche for brunch."
+ },
+ {
+  "id": 397,
+  "word": "bioluminescence",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the emission of light from living organisms (such as fireflies, dinoflagellates, and bacteria).",
+  "origin": "Greek and Latin",
+  "sentence": "Fireflies glow because of bioluminescence."
+ },
+ {
+  "id": 398,
+  "word": "arugula",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a European annual herb with many leaves and whitish yellow flowers that is grown to use in salad.",
+  "origin": "Italian dialect",
+  "sentence": "Mom tossed arugula into the salad."
+ },
+ {
+  "id": 399,
+  "word": "assemblage",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a collection of individuals or of particular things : an aggregation.",
+  "origin": "French",
+  "sentence": "An assemblage of birds gathered at the feeder."
+ },
+ {
+  "id": 400,
+  "word": "euphemism",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a polite, tactful, or less explicit term used to avoid the direct naming of an unpleasant, painful, or frightening reality.",
+  "origin": "Greek",
+  "sentence": "\"Passed away\" is a gentle euphemism for \"died.\""
+ },
+ {
+  "id": 401,
+  "word": "chickadee",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any of several small, crestless American birds usually having the crown of the head darker than the body plumage.",
+  "origin": "English, imitative of its call",
+  "sentence": "A chickadee sang from the pine tree."
+ },
+ {
+  "id": 402,
+  "word": "vibrometer",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an instrument to observe, measure, and record quivering or trembling motion.",
+  "origin": "Latin and Greek",
+  "sentence": "Engineers used a vibrometer to test the bridge."
+ },
+ {
+  "id": 403,
+  "word": "leprosy",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a chronic disease characterized by the formation of nodules on the surface of the body that are accompanied by loss of sensation followed sooner or later by involvement of nerves.",
+  "origin": "Greek, through Latin",
+  "sentence": "Today leprosy can be cured with medicine."
+ },
+ {
+  "id": 404,
+  "word": "acolyte",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "one who attends or assists : a follower.",
+  "origin": "Greek, through Latin",
+  "sentence": "The wizard's acolyte carried his books."
+ },
+ {
+  "id": 405,
+  "word": "asymmetric",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not characterized by balanced proportions.",
+  "origin": "Greek",
+  "sentence": "The modern building had an asymmetric shape."
+ },
+ {
+  "id": 406,
+  "word": "mayonnaise",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a semisolid dressing made by emulsifying a mixture of raw eggs or egg yolks, vegetable oil, and vinegar or lemon juice usually together with salt and condiments.",
+  "origin": "French",
+  "sentence": "I like mayonnaise on my sandwich."
+ },
+ {
+  "id": 407,
+  "word": "eureka",
+  "alternates": [],
+  "partOfSpeech": "interjection",
+  "definition": "— used to express triumph concerning a discovery.",
+  "origin": "Greek",
+  "sentence": "The scientist shouted \"eureka\" when the experiment worked."
+ },
+ {
+  "id": 408,
+  "word": "innocuous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "not likely to arouse hostility or give offense : inoffensive.",
+  "origin": "Latin",
+  "sentence": "The spider looked scary but was innocuous."
+ },
+ {
+  "id": 409,
+  "word": "shar-pei",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any of an ancient breed of dogs originating in China that have loose wrinkled skin especially when young, a short bristly coat, blue-black tongue, and wide blunt muzzle.",
+  "origin": "Chinese (Cantonese)",
+  "sentence": "The shar-pei puppy was covered in wrinkles."
+ },
+ {
+  "id": 410,
+  "word": "sputum",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "something spit out and usually consisting of saliva with or without mucus or other materials from the respiratory passages.",
+  "origin": "Latin",
+  "sentence": "The doctor tested a sputum sample."
+ },
+ {
+  "id": 411,
+  "word": "annelids",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "animals such as earthworms and leeches.",
+  "origin": "Latin, through French",
+  "sentence": "Earthworms are annelids."
+ },
+ {
+  "id": 412,
+  "word": "Tripoli",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "capital city and port on the Mediterranean Sea in northwestern Libya.",
+  "origin": "Greek",
+  "sentence": "Tripoli is the capital of Libya."
+ },
+ {
+  "id": 413,
+  "word": "endothermy",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "physiological regulation of body temperature by metabolic means; especially : the property or state of being warm-blooded.",
+  "origin": "Greek",
+  "sentence": "Endothermy lets birds stay warm in cold weather."
+ },
+ {
+  "id": 414,
+  "word": "cerulean",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "somewhat resembling the blue of the sky.",
+  "origin": "Latin",
+  "sentence": "The lake was a deep cerulean blue."
+ },
+ {
+  "id": 415,
+  "word": "kerosene",
+  "alternates": [
+   "kerosine"
+  ],
+  "partOfSpeech": "noun",
+  "definition": "a flammable hydrocarbon oil usually obtained by distillation of petroleum and used as a fuel, solvent, and thinner.",
+  "origin": "Greek",
+  "sentence": "The old lantern burned kerosene."
+ },
+ {
+  "id": 416,
+  "word": "neurological",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of or relating to the scientific study of the nervous system.",
+  "origin": "Greek",
+  "sentence": "The doctor ordered a neurological exam."
+ },
+ {
+  "id": 417,
+  "word": "éclair",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a usually chocolate-frosted oblong cream puff with whipped cream or custard filling.",
+  "origin": "French",
+  "sentence": "I chose a chocolate éclair at the bakery."
+ },
+ {
+  "id": 418,
+  "word": "cul-de-sac",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a street or passage closed at one end.",
+  "origin": "French",
+  "sentence": "We live at the end of a quiet cul-de-sac."
+ },
+ {
+  "id": 419,
+  "word": "Pennsylvania",
+  "alternates": [],
+  "partOfSpeech": "geographical entry",
+  "definition": "state in the northeastern U.S. that has the Delaware River as its eastern border and borders on Lake Erie in the northwest.",
+  "origin": "Latin (Penn + \"sylvania,\" woods)",
+  "sentence": "The Liberty Bell is in Pennsylvania."
+ },
+ {
+  "id": 420,
+  "word": "mysticetes",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "large whales typically of colder waters that lack teeth but have baleen plates in the upper jaw which are used to filter chiefly small crustaceans (such as krill) out of large quantities of seawater.",
+  "origin": "Greek, through New Latin",
+  "sentence": "Blue whales and humpbacks are mysticetes."
+ },
+ {
+  "id": 421,
+  "word": "irascibility",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the quality or state of having or showing a disposition to be easily enraged.",
+  "origin": "Latin",
+  "sentence": "The old captain was known for his irascibility."
+ },
+ {
+  "id": 422,
+  "word": "electrolytes",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "substances (as acids, bases, or salts) that when dissolved in a suitable solvent (as water) or when fused become ionic conductors.",
+  "origin": "Greek",
+  "sentence": "Sports drinks contain electrolytes."
+ },
+ {
+  "id": 423,
+  "word": "ampulla",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a vessel in which holy oil is kept.",
+  "origin": "Latin",
+  "sentence": "The priest poured oil from the ampulla."
+ },
+ {
+  "id": 424,
+  "word": "Eritrea",
+  "alternates": [],
+  "partOfSpeech": "geographical entry",
+  "definition": "country of northeastern Africa; became part of Ethiopia in 1962 and then became independent in 1993.",
+  "origin": "Italian, from Greek (red)",
+  "sentence": "Eritrea lies along the Red Sea."
+ },
+ {
+  "id": 425,
+  "word": "a cappella",
+  "alternates": [],
+  "partOfSpeech": "adverb",
+  "definition": "in a style marked by the absence of instrumental accompaniment.",
+  "origin": "Italian",
+  "sentence": "The choir sang a cappella."
+ },
+ {
+  "id": 426,
+  "word": "ototoxic",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "producing, involving, or being adverse effects on organs or nerves involved in hearing or balance.",
+  "origin": "Greek",
+  "sentence": "Some medicines can be ototoxic."
+ },
+ {
+  "id": 427,
+  "word": "sensilla",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "simple epithelial sense organs composed of one or a few cells with a nerve connection and usually taking the form of a spine, plate, rod, cone, or peg.",
+  "origin": "New Latin",
+  "sentence": "Insects sense the world through tiny sensilla."
+ },
+ {
+  "id": 428,
+  "word": "forsythia",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any plant of a small genus of ornamental shrubs with opposite leaves and bright yellow bell-shaped flowers which appear before the leaves in early spring.",
+  "origin": "New Latin (from William Forsyth)",
+  "sentence": "The forsythia bloomed bright yellow in March."
+ },
+ {
+  "id": 429,
+  "word": "Amharic",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the Semitic language that is the official language of Ethiopia.",
+  "origin": "Amharic",
+  "sentence": "Many people in Ethiopia speak Amharic."
+ },
+ {
+  "id": 430,
+  "word": "Aphrodite",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "the Greek goddess of love and beauty.",
+  "origin": "Greek",
+  "sentence": "In Greek myths, Aphrodite was the goddess of love."
+ },
+ {
+  "id": 431,
+  "word": "eponymous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "bearing the name of, being, or relating to one for whom or which something is named.",
+  "origin": "Greek",
+  "sentence": "The band released its eponymous first album."
+ },
+ {
+  "id": 432,
+  "word": "salicylic acid",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a crystalline phenolic acid found in many plants that is used especially in making pharmaceuticals and dyes, and as an antiseptic and disinfectant especially in treating skin diseases.",
+  "origin": "Latin (\"salix,\" willow) and French",
+  "sentence": "Salicylic acid is used in some skin creams."
+ },
+ {
+  "id": 433,
+  "word": "Gloucester",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a hard cheese resembling derby.",
+  "origin": "English (place name)",
+  "sentence": "We had Gloucester cheese with crackers."
+ },
+ {
+  "id": 434,
+  "word": "bogong moth",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "an Australian moth that is made into a paste and eaten by the aborigines when the moths estivate in huge clusters in rocky mountains.",
+  "origin": "Aboriginal Australian (Dharug)",
+  "sentence": "The bogong moth travels to the mountains each summer."
+ },
+ {
+  "id": 435,
+  "word": "Presbyterian",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "relating to a Protestant Christian church that is governed by a graded system of representative ecclesiastical bodies and is traditionally Calvinistic in doctrine.",
+  "origin": "Greek, through Latin",
+  "sentence": "They attend a Presbyterian church."
+ },
+ {
+  "id": 436,
+  "word": "stomatopods",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "crustaceans that burrow in mud or beneath stones in shallow water along the seashore.",
+  "origin": "Greek",
+  "sentence": "Mantis shrimp are stomatopods."
+ },
+ {
+  "id": 437,
+  "word": "prosciutto",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "dry-cured spiced ham.",
+  "origin": "Italian",
+  "sentence": "The pizza was topped with prosciutto."
+ },
+ {
+  "id": 438,
+  "word": "yakuza",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a Japanese member of a gang of criminals.",
+  "origin": "Japanese",
+  "sentence": "In the movie, the detective tracked down a yakuza."
+ },
+ {
+  "id": 439,
+  "word": "Sierra Leone",
+  "alternates": [],
+  "partOfSpeech": "geographical entry",
+  "definition": "country in western Africa on the Atlantic.",
+  "origin": "Portuguese (\"lion mountains\")",
+  "sentence": "Sierra Leone is on the Atlantic coast of Africa."
+ },
+ {
+  "id": 440,
+  "word": "frankincense",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a gum resin containing oil obtained from East African or Arabian trees, valued in ancient times in worship and for embalming and scenting, and still an important resin used to produce a fragrant odor when burned.",
+  "origin": "Old French",
+  "sentence": "The wise men brought frankincense as a gift."
+ },
+ {
+  "id": 441,
+  "word": "chitinous",
+  "alternates": [],
+  "partOfSpeech": "adjective",
+  "definition": "of or like a substance that forms part of the hard outer covering of insects, crustaceans, and some other invertebrates.",
+  "origin": "Greek, through French",
+  "sentence": "Beetles have a chitinous shell."
+ },
+ {
+  "id": 442,
+  "word": "Krio",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a pidgin English spoken in Sierra Leone.",
+  "origin": "English-based creole of Sierra Leone",
+  "sentence": "Krio is spoken by many people in Sierra Leone."
+ },
+ {
+  "id": 443,
+  "word": "vibrissae",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "the stiff hairs that grow about the nostrils or on other parts of the face in many mammals (as the whiskers of a cat or the hairs of the nostrils of humans).",
+  "origin": "Latin",
+  "sentence": "A cat uses its vibrissae to feel its way in the dark."
+ },
+ {
+  "id": 444,
+  "word": "solenodon",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "any mammal of a small genus of rare insectivorous mammals of Cuba and Haiti that are nearly two feet long and have a long snout, hard fur, and a long scaly tail.",
+  "origin": "Greek",
+  "sentence": "The solenodon has a long, flexible snout."
+ },
+ {
+  "id": 445,
+  "word": "trichobothria",
+  "alternates": [],
+  "partOfSpeech": "plural noun",
+  "definition": "sensory hairs on an arthropod or other invertebrate.",
+  "origin": "Greek",
+  "sentence": "Spiders sense air currents with their trichobothria."
+ },
+ {
+  "id": 446,
+  "word": "Addis Ababa",
+  "alternates": [],
+  "partOfSpeech": "geographical entry",
+  "definition": "city and national capital, central Ethiopia.",
+  "origin": "Amharic (\"new flower\")",
+  "sentence": "Addis Ababa is the capital of Ethiopia."
+ },
+ {
+  "id": 447,
+  "word": "Bildungsroman",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a novel about the usually early development or spiritual education of the main character.",
+  "origin": "German",
+  "sentence": "The novel is a Bildungsroman about a girl growing up."
+ },
+ {
+  "id": 448,
+  "word": "lactobacillus",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a bacterium of a genus of lactic-acid-forming bacteria.",
+  "origin": "Latin",
+  "sentence": "Yogurt contains lactobacillus."
+ },
+ {
+  "id": 449,
+  "word": "Cappadocia",
+  "alternates": [],
+  "partOfSpeech": "geographical entry",
+  "definition": "ancient district of eastern Asia Minor chiefly in the valley of the upper Kızıl Irmak in modern Turkey.",
+  "origin": "Greek, from Persian",
+  "sentence": "Hot-air balloons float over Cappadocia."
+ },
+ {
+  "id": 450,
+  "word": "spes phthisica",
+  "alternates": [],
+  "partOfSpeech": "noun",
+  "definition": "a state of euphoria believed to occur in patients with pulmonary tuberculosis.",
+  "origin": "Latin and Greek",
+  "sentence": "Doctors once described spes phthisica in tuberculosis patients."
+ }
+]
